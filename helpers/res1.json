@@ -1,0 +1,905 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATtYBwJOvw07YFzr8eAmzXJ2IQu5WnuEPVhkx5hauuoxITO33h8PHbsaIL1PvZaaMStju7VXXTV4e7BNZlx8VBr_3FGzOnE79RidBVthb60pj__CXVUUYBT6TNUiJrIZLrDL8tAXVzvRAc57dd9K1dfjFg7uUMrU95gu3rU3nhtSK-uMoV5r5X1nT-2_4KJpsnaGyMAnmcuea2WCDNAOMKK6xbJ2LDPxcTigg9lUXX25XOI4ae93kA0tF4cIHi_BjOrkoj1UL5q-Z9X5m8qwGVp6emZmyMq1M62wbOP-SjvwggTWZMuGBBNV2kY_P1JScVJbKhO2qhc0ZyuPa1ZkMmZi7hM9jU7itgq7Hs_AIag2Kwerfm5dOFjbCDpHIBtnMpzGgEtqbOLzjXJwZHRdKxtReXDbOjBuYIt-Iwd0mq7grEX0",
+    "results": [
+    {
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.7127753,
+                "lng": -74.0059728
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.91757705070789,
+                    "lng": -73.70027206817629
+                },
+                "southwest":
+                {
+                    "lat": 40.47739906045452,
+                    "lng": -74.25908991427882
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "name": "New York",
+        "photos": [
+        {
+            "height": 719,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/112863635526501032707\">Andy Leonie</a>"],
+            "photo_reference": "ATtYBwKU-_zUKUPHinOhJeueykThS49fuzEJs03yBlqsDKEE_7ttaU5t2d-rpXJ5aPjORJUIeMDkO7H-AzXvZi3CCBe3J2oGgOaLUWzlTXCPL8H0UjDEMVKeTjBUUIUVS3mNvaXxln9hLLj0_kgB5znONjD3Clpb7VaKWIEQIed3ktflqgg9",
+            "width": 1125
+        }],
+        "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+        "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+        "scope": "GOOGLE",
+        "types": ["locality", "political"],
+        "vicinity": "New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8505949,
+                "lng": -73.8769982
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.86110289999999,
+                    "lng": -73.86736775000001
+                },
+                "southwest":
+                {
+                    "lat": 40.83834530000001,
+                    "lng": -73.88760074999999
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Bronx Zoo",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "photos": [
+        {
+            "height": 3464,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/114583516464157876174\">Mohamed Mahmoud</a>"],
+            "photo_reference": "ATtYBwKTC0zirIvdE59LgZ-Wru9F0GmrcLy1MNe-VHDkaR84zjR7Hw_EsiVp2NnM4BAR_BQA3kU-wEbXsgDUEihbiNhGUNM3PZrROz4y-PFCDEPgOMzttqJPavnmkoDw_uzCw-TrZfX3lq35k-KApcIph6e_iTobM70ZWgYe_LIwav8PaYD8",
+            "width": 4618
+        }],
+        "place_id": "ChIJi9JqUYP0wokRLhCVlxy0bgU",
+        "plus_code":
+        {
+            "compound_code": "V42F+66 Bronx, NY, USA",
+            "global_code": "87G8V42F+66"
+        },
+        "rating": 4.5,
+        "reference": "ChIJi9JqUYP0wokRLhCVlxy0bgU",
+        "scope": "GOOGLE",
+        "types": ["zoo", "tourist_attraction", "point_of_interest", "establishment"],
+        "user_ratings_total": 26326,
+        "vicinity": "2300 Southern Boulevard, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8395683,
+                "lng": -73.8811387
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8410039802915,
+                    "lng": -73.87989941970848
+                },
+                "southwest":
+                {
+                    "lat": 40.8383060197085,
+                    "lng": -73.88259738029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "West Farms Hotel",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1236,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110033371237727669926\">West Farms Hotel</a>"],
+            "photo_reference": "ATtYBwKQ6-I-jlHkL29Dln1Wtm6sBahOdV9gtNakYIcCIgO8XB1_lGxCfEy6ldytfmFwrdhtHN60KA5MWCxSGfao3E3_q45Rb1rs4NVZVm8dcD1u1yYAgvjnL7hxavt9AeONC0_lVKibgUhwQL62uttj0talPgNTAIQZ9Wyc9DA5YSAt6Hli",
+            "width": 1600
+        }],
+        "place_id": "ChIJE_Djy4z0wokR6FQGv9PF9uo",
+        "plus_code":
+        {
+            "compound_code": "R4Q9+RG Bronx, NY, USA",
+            "global_code": "87G8R4Q9+RG"
+        },
+        "rating": 2.9,
+        "reference": "ChIJE_Djy4z0wokR6FQGv9PF9uo",
+        "scope": "GOOGLE",
+        "types": ["lodging", "point_of_interest", "establishment"],
+        "user_ratings_total": 665,
+        "vicinity": "1922 Boston Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.85432,
+                "lng": -73.86792
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8556498802915,
+                    "lng": -73.86646791970848
+                },
+                "southwest":
+                {
+                    "lat": 40.8529519197085,
+                    "lng": -73.8691658802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Planet Fitness",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3840,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/117428808124185874542\">Planet Fitness</a>"],
+            "photo_reference": "ATtYBwImlEOiuNAN8KdeiGNlAobeVEEPADl13Xm8ISul5o_-8nS46jvbbHdEtYnzFqmSk2uEUuknavSKY2ppf-256eIXblclrcHTSc51zhByA344UN3E-4ilcsJbPYbLJ8QsjoA7ZpPwAIfliU0yzYPTMgK8Ln1gr_zVD292H3co09Bw3ZMH",
+            "width": 5760
+        }],
+        "place_id": "ChIJt2rC5flbwokRIaPEOowS_xg",
+        "plus_code":
+        {
+            "compound_code": "V43J+PR New York, NY, USA",
+            "global_code": "87G8V43J+PR"
+        },
+        "rating": 4.1,
+        "reference": "ChIJt2rC5flbwokRIaPEOowS_xg",
+        "scope": "GOOGLE",
+        "types": ["gym", "spa", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 615,
+        "vicinity": "2129 White Plains Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8432464,
+                "lng": -73.8569717
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84472703029149,
+                    "lng": -73.8555450697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8420290697085,
+                    "lng": -73.8582430302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Amazing Home Care",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "photos": [
+        {
+            "height": 430,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/107034571225237671498\">Amazing Home Care</a>"],
+            "photo_reference": "ATtYBwKJk5BMp5IEG-8NdoVoMqAICHHReGl6htNRnYYKIAxyEwKi1HqnfsFLBuwu-1XzF-mOJoAY5a6BONgqymqRToDuA5bh6EtA1yMkIYkbtbEqnx4o5pHZOg52dlWUoRYyZOIEHr90a3O4ZIz2uHpRWPccciqorUn7vrxhr2CIB1A7mC4",
+            "width": 734
+        }],
+        "place_id": "ChIJSVP6mLv0wokRNJiq4ub9p-Y",
+        "plus_code":
+        {
+            "compound_code": "R4VV+76 New York, NY, USA",
+            "global_code": "87G8R4VV+76"
+        },
+        "rating": 3.6,
+        "reference": "ChIJSVP6mLv0wokRNJiq4ub9p-Y",
+        "scope": "GOOGLE",
+        "types": ["health", "point_of_interest", "establishment"],
+        "user_ratings_total": 175,
+        "vicinity": "1601 Bronxdale Avenue Suite 207, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.843364,
+                "lng": -73.84626999999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84459303029151,
+                    "lng": -73.8449911197085
+                },
+                "southwest":
+                {
+                    "lat": 40.84189506970851,
+                    "lng": -73.8476890802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "name": "Pep Boys",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/102875330285421710643\">Admin</a>"],
+            "photo_reference": "ATtYBwLT9upX6QNW8MOa3_nyA_ACW0lY5wztOZHYsiCjpYrA7kwkB1zSXuwOOaupLiV1Nwi9pShJnG2Gkb8zpkREnfblmOkfhe9rbZ_p82ndBIcgLClXYuQ1HC3BMpH4mAvnjC-e0JuLGN-UxVf1qeUqpf6XzWJtNpc5t4Pfgxz6OsnUKegP",
+            "width": 4032
+        }],
+        "place_id": "ChIJbW_SFLL0wokRdakqpetZFgk",
+        "plus_code":
+        {
+            "compound_code": "R5V3+8F New York, NY, USA",
+            "global_code": "87G8R5V3+8F"
+        },
+        "rating": 3.3,
+        "reference": "ChIJbW_SFLL0wokRdakqpetZFgk",
+        "scope": "GOOGLE",
+        "types": ["car_repair", "point_of_interest", "store", "establishment"],
+        "user_ratings_total": 921,
+        "vicinity": "2633 East Tremont Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8364825,
+                "lng": -73.8612062
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8376967302915,
+                    "lng": -73.85982226970849
+                },
+                "southwest":
+                {
+                    "lat": 40.83499876970851,
+                    "lng": -73.8625202302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "name": "Macy's",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "photos": [
+        {
+            "height": 3211,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/117768608905090782733\">anthony gopar</a>"],
+            "photo_reference": "ATtYBwKewmYqfi9jLArb8lIo-wDrs4XS4jNNPdICW3tXQYT_uob2PUkVkdDjqX5iLPbZm6vslDNauQ8OUCwVI7dPksQzJqjtKY1NG0XIhz7E1AngcdOgmipQWcVATMNZ0O-mPFTcmWKvi6iD5V7OQSyAxLZy2kgqm1QEHbsuTEGyx_SFIvtf",
+            "width": 3021
+        }],
+        "place_id": "ChIJHbvbnsD0wokRJ4VJqy0pPOE",
+        "plus_code":
+        {
+            "compound_code": "R4PQ+HG New York, NY, USA",
+            "global_code": "87G8R4PQ+HG"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJHbvbnsD0wokRJ4VJqy0pPOE",
+        "scope": "GOOGLE",
+        "types": ["department_store", "shoe_store", "jewelry_store", "furniture_store", "home_goods_store", "point_of_interest", "clothing_store", "store", "establishment"],
+        "user_ratings_total": 3130,
+        "vicinity": "1441 Metropolitan Avenue Fl 2, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8522077,
+                "lng": -73.8524821
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8536183802915,
+                    "lng": -73.85130106970848
+                },
+                "southwest":
+                {
+                    "lat": 40.8509204197085,
+                    "lng": -73.8539990302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "name": "TD Bank",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "photos": [
+        {
+            "height": 1792,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/111410662012742219191\">J.D</a>"],
+            "photo_reference": "ATtYBwJPOhWaROrRiVUph2_P0-9RsvfihAFxr1BL-dOXWJpbJb4USHBxeHTWfwwhjONQ6fEU0hvHrVUFN5alp56FK33e9DoaBtOuctEusqoI9ePk8CacoTWElP0ibH5J4RQZ8V0etAsHAZVkLI_Q9EEmR95Qk2eEpbIcYIMcupI87-5UGxl_",
+            "width": 3312
+        }],
+        "place_id": "ChIJAc-ci6j0wokRWPkbogn6Dl0",
+        "plus_code":
+        {
+            "compound_code": "V42X+V2 New York, NY, USA",
+            "global_code": "87G8V42X+V2"
+        },
+        "rating": 3.4,
+        "reference": "ChIJAc-ci6j0wokRWPkbogn6Dl0",
+        "scope": "GOOGLE",
+        "types": ["bank", "atm", "finance", "point_of_interest", "establishment"],
+        "user_ratings_total": 47,
+        "vicinity": "1864 Williamsbridge Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8433041,
+                "lng": -73.8566156
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8447102802915,
+                    "lng": -73.8552317697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8420123197085,
+                    "lng": -73.8579297302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "name": "Ace Bag & Burlap Co Inc",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "photos": [
+        {
+            "height": 1500,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/108328360627033876268\">Ace Bag &amp; Burlap Co Inc</a>"],
+            "photo_reference": "ATtYBwLRJqKwGASgRQJZgnVJc3btrdymcDgxRR2-Iwzt9_IP5qijzu1ZG0BlbU32zJ4jYLgWdQ3ffAV7-4baaxU99gP26-y0ZYQm2zFxhe2FlK6hM_gJwSZ9fubo8t47Zc6wCsR_eV9SqIFIQtlsslKTJtAHXhtzOciW8gkpHlFv2cnl6wzc",
+            "width": 1417
+        }],
+        "place_id": "ChIJSVP6mLv0wokRCH7yowSoGC8",
+        "plus_code":
+        {
+            "compound_code": "R4VV+89 Bronx, NY, USA",
+            "global_code": "87G8R4VV+89"
+        },
+        "rating": 3,
+        "reference": "ChIJSVP6mLv0wokRCH7yowSoGC8",
+        "scope": "GOOGLE",
+        "types": ["point_of_interest", "store", "establishment"],
+        "user_ratings_total": 4,
+        "vicinity": "1601 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.84294349999999,
+                "lng": -73.85833389999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84460108029149,
+                    "lng": -73.8568355197085
+                },
+                "southwest":
+                {
+                    "lat": 40.84190311970849,
+                    "lng": -73.8595334802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Woodbury Warehouse Inc",
+        "place_id": "ChIJSVP6mLv0wokRXkWeLH1yoWU",
+        "plus_code":
+        {
+            "compound_code": "R4VR+5M Bronx, NY, USA",
+            "global_code": "87G8R4VR+5M"
+        },
+        "rating": 5,
+        "reference": "ChIJSVP6mLv0wokRXkWeLH1yoWU",
+        "scope": "GOOGLE",
+        "types": ["point_of_interest", "establishment"],
+        "user_ratings_total": 1,
+        "vicinity": "1601 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8480084,
+                "lng": -73.84404860000001
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8496042302915,
+                    "lng": -73.8428274697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8469062697085,
+                    "lng": -73.8455254302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+        "name": "Calvary Hospital",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1360,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/109159489693849924414\">Calvary Hospital</a>"],
+            "photo_reference": "ATtYBwLfRXpQ6OK7thHtzSuY40LG6rqQhyUDmelnwixTD6IG7BWijh1-Ah0eyAfBdQPPLGdetwnkUqcboAqjfuU39ng3hTGfieAs96i8dL7nBoRNnyusf59nFtzHd5deQCEhkyS7IduW-nZk1x3xVjAAlyoGVYdfPtjXRKH0uLKH_TWAtrex",
+            "width": 2048
+        }],
+        "place_id": "ChIJw2M4mKz0wokRZo5bkcMGOy0",
+        "plus_code":
+        {
+            "compound_code": "R5X4+69 New York, NY, USA",
+            "global_code": "87G8R5X4+69"
+        },
+        "rating": 3.8,
+        "reference": "ChIJw2M4mKz0wokRZo5bkcMGOy0",
+        "scope": "GOOGLE",
+        "types": ["hospital", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 128,
+        "vicinity": "1740 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.84294349999999,
+                "lng": -73.85833389999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84460108029149,
+                    "lng": -73.8568355197085
+                },
+                "southwest":
+                {
+                    "lat": 40.84190311970849,
+                    "lng": -73.8595334802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Marini Sewer & Drain Corporation",
+        "place_id": "ChIJSVP6mLv0wokRY79Y4OPotwI",
+        "plus_code":
+        {
+            "compound_code": "R4VR+5M New York, NY, USA",
+            "global_code": "87G8R4VR+5M"
+        },
+        "rating": 5,
+        "reference": "ChIJSVP6mLv0wokRY79Y4OPotwI",
+        "scope": "GOOGLE",
+        "types": ["plumber", "point_of_interest", "establishment"],
+        "user_ratings_total": 1,
+        "vicinity": "1601 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8487296,
+                "lng": -73.8622597
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8502232302915,
+                    "lng": -73.8609035197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8475252697085,
+                    "lng": -73.8636014802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "F&J Pine",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/100204317984406692310\">Mia B</a>"],
+            "photo_reference": "ATtYBwJ8P83dKEMxSBdqQTjC_9iCKGrhsokR-3r_uShlRsOXGYQVpMNl3vnXWP2y_eQzThyTwCizajwrA3VXBboM_I3qDE2nlA44RZXbDnPOrZXIMlD-9x1bEbUqDXbsL-93Ek1dIKa1EBbrt0eyGYMscOL-vLXFoWcpsmzlSEgCb_qC1sk3",
+            "width": 4032
+        }],
+        "place_id": "ChIJIcUqAKP0wokRJzfqJIeeYkA",
+        "plus_code":
+        {
+            "compound_code": "R4XQ+F3 New York, NY, USA",
+            "global_code": "87G8R4XQ+F3"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJIcUqAKP0wokRJzfqJIeeYkA",
+        "scope": "GOOGLE",
+        "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 3019,
+        "vicinity": "1913 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8455224,
+                "lng": -73.8592274
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8468337302915,
+                    "lng": -73.85764141970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8441357697085,
+                    "lng": -73.86033938029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Maestro's Caterers",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/117732884799276583646\">Richie Rich</a>"],
+            "photo_reference": "ATtYBwIodEz-xm1nakwrQ9Xr-YwzcqxGDYltd1miKseaQguzHmcI1g4tZ_R4RuYCA5FLJVVtxyQcuChhreNYUaf1R88bVz5B7am-SBDM4T1UwptcvJM1bnIvR-Yfdnq_lv6aZ7pRRdQyHwVLZFYNeAzVfyDv0FUsi0355eSnsJIOdWQb5twB",
+            "width": 4032
+        }],
+        "place_id": "ChIJlTsEUbv0wokRA3IhgQv1n8Y",
+        "plus_code":
+        {
+            "compound_code": "R4WR+68 Bronx, NY, USA",
+            "global_code": "87G8R4WR+68"
+        },
+        "rating": 4.4,
+        "reference": "ChIJlTsEUbv0wokRA3IhgQv1n8Y",
+        "scope": "GOOGLE",
+        "types": ["food", "point_of_interest", "establishment"],
+        "user_ratings_total": 1316,
+        "vicinity": "1703 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8429575,
+                "lng": -73.8582626
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84460483029149,
+                    "lng": -73.8567881197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8419068697085,
+                    "lng": -73.85948608029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "New York Sewer & Drain Corporation",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "place_id": "ChIJSVP6mLv0wokR7NqJIPUG1oo",
+        "plus_code":
+        {
+            "compound_code": "R4VR+5M New York, NY, USA",
+            "global_code": "87G8R4VR+5M"
+        },
+        "reference": "ChIJSVP6mLv0wokR7NqJIPUG1oo",
+        "scope": "GOOGLE",
+        "types": ["plumber", "point_of_interest", "establishment"],
+        "vicinity": "1601 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8468722,
+                "lng": -73.8448808
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8484242302915,
+                    "lng": -73.84361256970851
+                },
+                "southwest":
+                {
+                    "lat": 40.84572626970851,
+                    "lng": -73.84631053029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "CenterLight Health System",
+        "place_id": "ChIJY8tb2az0wokRxfjDq7iKn4E",
+        "plus_code":
+        {
+            "compound_code": "R5W4+P2 New York, NY, USA",
+            "global_code": "87G8R5W4+P2"
+        },
+        "rating": 5,
+        "reference": "ChIJY8tb2az0wokRxfjDq7iKn4E",
+        "scope": "GOOGLE",
+        "types": ["health", "point_of_interest", "establishment"],
+        "user_ratings_total": 2,
+        "vicinity": "1733 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8502252,
+                "lng": -73.8784993
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8516245302915,
+                    "lng": -73.87712636970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8489265697085,
+                    "lng": -73.87982433029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Wildlife Conservation Society, Research Fellowship Program",
+        "photos": [
+        {
+            "height": 2620,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104860705097027084350\">Charles Settles</a>"],
+            "photo_reference": "ATtYBwJOx0AqM2zW8cGcSqVGUw-329mwfg28UR-tkepzQhJwAPwmgxvjqIq8J38fk6AdMKAn8PdwvjOa4w3sNJ8-ECppFYAF1Z33X5UP1UxyZ4DjhA3SON3S1iYDJb1ys7rAp846xuvXOvVHdmucn3mn6KpXY3HBAwedYBXpKiTwrmmMCq_s",
+            "width": 4656
+        }],
+        "place_id": "ChIJXcW15YX0wokRFEvwb_S6Zac",
+        "plus_code":
+        {
+            "compound_code": "V42C+3J Bronx, NY, USA",
+            "global_code": "87G8V42C+3J"
+        },
+        "rating": 4.2,
+        "reference": "ChIJXcW15YX0wokRFEvwb_S6Zac",
+        "scope": "GOOGLE",
+        "types": ["zoo", "point_of_interest", "establishment"],
+        "user_ratings_total": 19,
+        "vicinity": "2300 Southern Boulevard, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8429575,
+                "lng": -73.8582626
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84460483029149,
+                    "lng": -73.8567881197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8419068697085,
+                    "lng": -73.85948608029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+        "name": "Centers For Specialty Care",
+        "place_id": "ChIJSVP6mLv0wokRc70_DuZf6uQ",
+        "plus_code":
+        {
+            "compound_code": "R4VR+5M New York, NY, USA",
+            "global_code": "87G8R4VR+5M"
+        },
+        "reference": "ChIJSVP6mLv0wokRc70_DuZf6uQ",
+        "scope": "GOOGLE",
+        "types": ["hospital", "health", "point_of_interest", "establishment"],
+        "vicinity": "1601 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8557535,
+                "lng": -73.8464133
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.85856529999998,
+                    "lng": -73.84476539999997
+                },
+                "southwest":
+                {
+                    "lat": 40.85418250000001,
+                    "lng": -73.84923460000002
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+        "name": "NYC Health + Hospitals/Jacobi",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 4032,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/113903008613171311616\">Nelly DM</a>"],
+            "photo_reference": "ATtYBwIvio7_9Iu8EHTMq96Fmlz3jHSjc56hg4nmXp2SAJ86es09zCELEgyxdg9Jvq2fiilTlHVA7bDU9RQYbvaGsn0rTDBk4dVW6OyTpfsiHQBxx_rf8iv7djrKGigoJ5F5YMWw-Niq94D3X8y_VZNtAGVIK0Dla560BllWEDh_21sRl877",
+            "width": 3024
+        }],
+        "place_id": "ChIJDy0Vv1XzwokRhqvpGXjXc4Y",
+        "plus_code":
+        {
+            "compound_code": "V543+8C New York, NY, USA",
+            "global_code": "87G8V543+8C"
+        },
+        "rating": 2.4,
+        "reference": "ChIJDy0Vv1XzwokRhqvpGXjXc4Y",
+        "scope": "GOOGLE",
+        "types": ["hospital", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 596,
+        "vicinity": "1400 Pelham Parkway South, Bronx"
+    },
+    {
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8732894,
+                "lng": -73.85362429999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.91010913972858,
+                    "lng": -73.78980185901848
+                },
+                "southwest":
+                {
+                    "lat": 40.80418006765638,
+                    "lng": -73.8845049511652
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "name": "East Bronx",
+        "photos": [
+        {
+            "height": 3072,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110520062363418588127\">Edward Pirraglia</a>"],
+            "photo_reference": "ATtYBwK5kMUQR3wJxA5bBUrYM2iodSZDbZQLyicCPFPUhEN8cIsjGrf5zyQjVlRYSHcBel9XnCG6_Sk3NsbQ15covpBs5zezpRqoYu0GXydSsWcR1flnZUGA3pow-dLicWLjE2K1k8q8t2Ixgky2EvAoO1vEOX_a_1uRAeLzZfh-nnfQLEzX",
+            "width": 4096
+        }],
+        "place_id": "ChIJiXob8quMwokROuos2t-9Lp0",
+        "reference": "ChIJiXob8quMwokROuos2t-9Lp0",
+        "scope": "GOOGLE",
+        "types": ["neighborhood", "political"],
+        "vicinity": "Bronx"
+    }],
+    "status": "OK"
+}

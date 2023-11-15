@@ -1,0 +1,984 @@
+{
+    "html_attributions": [],
+    "results": [
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8428972,
+                "lng": -73.8475334
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8443379802915,
+                    "lng": -73.84615641970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8416400197085,
+                    "lng": -73.8488543802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Take chef Home Catering",
+        "place_id": "ChIJG5VYIbL0wokRe0x1glwVgv0",
+        "plus_code":
+        {
+            "compound_code": "R5V2+5X Bronx, NY, USA",
+            "global_code": "87G8R5V2+5X"
+        },
+        "reference": "ChIJG5VYIbL0wokRe0x1glwVgv0",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "vicinity": "2563 Maclay Avenue #45, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8477005,
+                "lng": -73.8565725
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84914573029149,
+                    "lng": -73.8552992697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8464477697085,
+                    "lng": -73.8579972302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Patsy's Pizzeria Morris Park",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 559,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110464386779820622137\">Tina Zallo</a>"],
+            "photo_reference": "ATtYBwK-8ntVlF_bWX-tlJ7L9zZ5t7AnNo4DNE9_6g_gHxxMliinJzloct54YuMJdfQTRlb8V2AllRrKUYFz_EtjfSQ-gTwhXNlyNvI_UCFShwNwqdWXaAFsQYgMJEJKxDSUzZJ25XtL0c3R_8eDNn3urEff8jE-esyvNQJMxhLDFB94NcZf",
+            "width": 800
+        }],
+        "place_id": "ChIJG1dgAqX0wokRqPwXSi-lqIw",
+        "plus_code":
+        {
+            "compound_code": "R4XV+39 New York, NY, USA",
+            "global_code": "87G8R4XV+39"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJG1dgAqX0wokRqPwXSi-lqIw",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "meal_delivery", "meal_takeaway", "cafe", "bar", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 297,
+        "vicinity": "980 Morris Park Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8479906,
+                "lng": -73.8559472
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84941688029149,
+                    "lng": -73.85470041970848
+                },
+                "southwest":
+                {
+                    "lat": 40.84671891970849,
+                    "lng": -73.8573983802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "La Masa",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 2448,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/109720856124581149602\">La Masa Restaurant</a>"],
+            "photo_reference": "ATtYBwIlR32X8yM2TS1fgJOOGfpaXeOz01Qlph1_oA16SYx0kJLjaFY-NNVlFUKd_hhwmG6emnxfwY3gfSvndTVuwRb9DCRAgAr4rC7gXQt-rBZ8ZEluzki0odDsy77PyldghzXxbjwqpMu9duMNavW6EXYR2xv5OBF7gX10XTwVmSBrM7jq",
+            "width": 3264
+        }],
+        "place_id": "ChIJ00vjakAPZkARCN3AjL8J_8A",
+        "plus_code":
+        {
+            "compound_code": "R4XV+5J Bronx, NY, USA",
+            "global_code": "87G8R4XV+5J"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ00vjakAPZkARCN3AjL8J_8A",
+        "scope": "GOOGLE",
+        "types": ["meal_takeaway", "bar", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 895,
+        "vicinity": "1000 Morris Park Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8426529,
+                "lng": -73.8553064
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84391733029149,
+                    "lng": -73.85394336970849
+                },
+                "southwest":
+                {
+                    "lat": 40.84121936970849,
+                    "lng": -73.85664133029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Sizzler",
+        "photos": [
+        {
+            "height": 3984,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/115500978359319666390\">Lydia Cubano</a>"],
+            "photo_reference": "ATtYBwLyJVe82UWcryZz9fJvNe-St6TaEJZmBhLqpEQlO4DVcY8UmuV84D8uYn956A7el6PcDnYaqOtySlK8nQcl0261JygWZkDQWkXhkEQUtFwHmFsQ8scriac45_PHe1BnWeTcaSTsJznda7WoDPDEZifhP117xw607_jwT5jwkZdvYYUE",
+            "width": 2988
+        }],
+        "place_id": "ChIJjxCNXbr0wokRvZZbQaWUwy8",
+        "plus_code":
+        {
+            "compound_code": "R4VV+3V New York, NY, USA",
+            "global_code": "87G8R4VV+3V"
+        },
+        "price_level": 2,
+        "rating": 3.4,
+        "reference": "ChIJjxCNXbr0wokRvZZbQaWUwy8",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 5,
+        "vicinity": "2375 East Tremont Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8374783,
+                "lng": -73.8600032
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8388982302915,
+                    "lng": -73.8587576197085
+                },
+                "southwest":
+                {
+                    "lat": 40.83620026970851,
+                    "lng": -73.8614555802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Popeyes Louisiana Kitchen",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1192,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110505179239185185454\">Popeyes Louisiana Kitchen</a>"],
+            "photo_reference": "ATtYBwKJgqpeF5PiBp75d4I5dAxr31m3dSTzhuzG4MiAEpTCao6g5KI1Ig5udhNKgF83xXrK333rk95SFLu89-F6iidN0xzui5Nje9CSOzuP5PssVQiZS-r5mWrXRfjawjVk02HfYsozJORF_aEXZ-ojOnrsX1NgA0_XMDHb_8TBz-Ucy6EF",
+            "width": 2119
+        }],
+        "place_id": "ChIJocH4Nb_0wokRgZmIx9f_53g",
+        "plus_code":
+        {
+            "compound_code": "R4PQ+XX New York, NY, USA",
+            "global_code": "87G8R4PQ+XX"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJocH4Nb_0wokRgZmIx9f_53g",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 504,
+        "vicinity": "60 Metropolitan Oval, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8487312,
+                "lng": -73.85524350000001
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8499986302915,
+                    "lng": -73.8539124197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8473006697085,
+                    "lng": -73.85661038029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Healthy Fresh",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/111554123352271125148\">Vera P Monroe</a>"],
+            "photo_reference": "ATtYBwITmn7dR6VQLG_kH8pl0-MhMsVWw6azPEk9sdOZZNIra7v3zJ33fixmvXLAl9Ioim3iUKvjDldGhL_aWU5tDaBILC_ll_mbKA-YIt-mxrn-rdBzkn9CPeIM4czHcQjPPfhatWVLq8sZDJlf6TrNExAiBwsxcXVjOXFHakQgY_HJo79V",
+            "width": 4032
+        }],
+        "place_id": "ChIJn6XKl6X0wokRkfI_u3xpg0w",
+        "plus_code":
+        {
+            "compound_code": "R4XV+FW New York, NY, USA",
+            "global_code": "87G8R4XV+FW"
+        },
+        "rating": 4.4,
+        "reference": "ChIJn6XKl6X0wokRkfI_u3xpg0w",
+        "scope": "GOOGLE",
+        "types": ["meal_delivery", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 196,
+        "vicinity": "1033 Morris Park Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.854301,
+                "lng": -73.864142
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.85571453029149,
+                    "lng": -73.8627908697085
+                },
+                "southwest":
+                {
+                    "lat": 40.85301656970849,
+                    "lng": -73.86548883029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "EZ Grill NYC",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/115840638495031543225\">Ali A</a>"],
+            "photo_reference": "ATtYBwIs_iud2hrdrRjOBLV0sYXZbs5Z2-quIpDUn_W1nPL7XooUcMwvuqj-BbmOOfELbqzVnai7jNJGmOLlkgk14L_286hMzHxGQBVsC21xeCcst_XnJ-UcWV3vsK2llknEwkRyo0ZpWTEaCqpyuacNAGCGMjsZL-k965J3AvQjQV-wv12t",
+            "width": 4032
+        }],
+        "place_id": "ChIJ49MlNKD0wokRAZEf6-NfnDI",
+        "plus_code":
+        {
+            "compound_code": "V43P+P8 Bronx, NY, USA",
+            "global_code": "87G8V43P+P8"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJ49MlNKD0wokRAZEf6-NfnDI",
+        "scope": "GOOGLE",
+        "types": ["meal_delivery", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 290,
+        "vicinity": "790 Lydig Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8543465,
+                "lng": -73.866033
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8557572802915,
+                    "lng": -73.86467896970849
+                },
+                "southwest":
+                {
+                    "lat": 40.85305931970851,
+                    "lng": -73.8673769302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Top Choice",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110005974739657549904\">Maria A. Carrera H.</a>"],
+            "photo_reference": "ATtYBwKleedMbqfGbCwYfqLlBmlADfnoTn_h0q4uOa6R9ec4N8LbJsZIV6k-i81x9KbJm7fe3r0JtdvQRJq9kt-xkqh0kZ3Y0s2qTEfZ1s-0PGs8ac6W6DUIKwn57ItKLMvfnMxcvIBIZ_4D3Cq9gkt0DGFzhULIn8bu6d9tqvLef3Qt9lae",
+            "width": 4032
+        }],
+        "place_id": "ChIJkZNNeJ_0wokRT864JPWhuCg",
+        "plus_code":
+        {
+            "compound_code": "V43M+PH Bronx, NY, USA",
+            "global_code": "87G8V43M+PH"
+        },
+        "rating": 4.1,
+        "reference": "ChIJkZNNeJ_0wokRT864JPWhuCg",
+        "scope": "GOOGLE",
+        "types": ["meal_delivery", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 100,
+        "vicinity": "746 Lydig Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8331567,
+                "lng": -73.86321550000001
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8344722302915,
+                    "lng": -73.8618374197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8317742697085,
+                    "lng": -73.86453538029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Subway",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 4160,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/116846612298281011824\">Erwin Presinal</a>"],
+            "photo_reference": "ATtYBwJT4Q-l9o5zgWuhOx-XqoaqBftev2TiJQyPaMKcgDMTzBRBZRdXAkzno9ToPPExWsemhq_AkN4JnMoXsTVLk8JGqsBWXx1iedRK4m54bqUX75CGUVv_uwIl7LnAvENQzldYvjYkKTRnwrq3b85HQ7YEkdDHEpI4V8jHH5Mw3R2pKLgJ",
+            "width": 3120
+        }],
+        "place_id": "ChIJcYEDmcH0wokRdBq76bvcHew",
+        "plus_code":
+        {
+            "compound_code": "R4MP+7P New York, NY, USA",
+            "global_code": "87G8R4MP+7P"
+        },
+        "price_level": 1,
+        "rating": 3,
+        "reference": "ChIJcYEDmcH0wokRdBq76bvcHew",
+        "scope": "GOOGLE",
+        "types": ["meal_takeaway", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 42,
+        "vicinity": "1885 Westchester Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.83385790000001,
+                "lng": -73.8566451
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.83510543029151,
+                    "lng": -73.8553604697085
+                },
+                "southwest":
+                {
+                    "lat": 40.83240746970851,
+                    "lng": -73.8580584302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Texano",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1152,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/103609278406100004380\">Shumon Hossain</a>"],
+            "photo_reference": "ATtYBwIuQxaQD75fSsZzMMey4AMbLuhOTLJzDrOWG9F-IC00K8iIoHJmepRs_kyASlv52VDGqikBh0TE3GKYzGrnFo-DS3-bFccRAHYdLR6n3DRCGpeK5nXGD411qIcbUTR5zPZmdSboW5dyOfifU05h3gheXjcfzn32jVAEERA1AqW0lrOc",
+            "width": 2048
+        }],
+        "place_id": "ChIJF0czAcf0wokRfTFGvyPyx4s",
+        "plus_code":
+        {
+            "compound_code": "R4MV+G8 Bronx, NY, USA",
+            "global_code": "87G8R4MV+G8"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJF0czAcf0wokRfTFGvyPyx4s",
+        "scope": "GOOGLE",
+        "types": ["meal_delivery", "bar", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 164,
+        "vicinity": "2031 Westchester Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8354835,
+                "lng": -73.8705729
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8368188802915,
+                    "lng": -73.8691465197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8341209197085,
+                    "lng": -73.8718444802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "name": "Dunkin'",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 709,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/117135607010258730096\">Dunkin&#39;</a>"],
+            "photo_reference": "ATtYBwL3x8zFuuVBw1ks2jTwvvc5DNcAB63Ytz0qGWCWj_3mEC4KC8iOQTz17z8VOATFfjO5Zf3sNqsh9k93ExtV5MkjIlNgg265_IcIPqnH1UnpVbQgH32k6QthLZbZsTRo10NhwLEnaP8U9UxQuvEWCWkamPGUc5vcN5Iu93MI0cQiDH2p",
+            "width": 1261
+        }],
+        "place_id": "ChIJWUAGc-v0wokR1KcrM1I63tA",
+        "plus_code":
+        {
+            "compound_code": "R4PH+5Q New York, NY, USA",
+            "global_code": "87G8R4PH+5Q"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJWUAGc-v0wokR1KcrM1I63tA",
+        "scope": "GOOGLE",
+        "types": ["bakery", "meal_takeaway", "cafe", "restaurant", "food", "point_of_interest", "store", "establishment"],
+        "user_ratings_total": 325,
+        "vicinity": "Bp, 1730 Cross Bronx Expressway, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8556558,
+                "lng": -73.8673187
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8570485302915,
+                    "lng": -73.8661414697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8543505697085,
+                    "lng": -73.8688394302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Popeyes Louisiana Kitchen",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1192,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/106255315388196008714\">Popeyes Louisiana Kitchen</a>"],
+            "photo_reference": "ATtYBwJsi3PyE2_y3yVFNrcRBTU3pDomBCg6MOrfIMSHbw9Gl0Y1lOhXJIeuk7mRAWStx5x210oByz-06WWd3Q8P-jNvDZEl5NNQe5qt-FF5y-pDi4oFZGJdN8fEM1z-N3jcgCYBC93azry7l9qUsRe5Ryk6qVwEJtiTqqmR53nJLrBBz1TL",
+            "width": 2119
+        }],
+        "place_id": "ChIJez_JOGDzwokRIJY7po6YCqs",
+        "plus_code":
+        {
+            "compound_code": "V44M+73 New York, NY, USA",
+            "global_code": "87G8V44M+73"
+        },
+        "price_level": 1,
+        "rating": 3.3,
+        "reference": "ChIJez_JOGDzwokRIJY7po6YCqs",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 244,
+        "vicinity": "2176-a, White Plains Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.833791,
+                "lng": -73.861362
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8350583302915,
+                    "lng": -73.8601129697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8323603697085,
+                    "lng": -73.86281093029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Halal Skinny Guys MIDO",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/106214467987132398001\">QuickBite Parkchester</a>"],
+            "photo_reference": "ATtYBwLbR7bJTYj7f_boAhoOIqpE1mU-2phphNFIlA4VLTDbq9W-N_0nqJVVKTu9WgTYUJzWA671VEiCN8LW0omRt-CHHqrQAd9OogeT3_fRjMAMZ4YdwcRKdwJ4_AUmPyZMMJ4D9W3Lk1LyjvgPXSPnIs2bXwspZ49DDP7pjpwPcz0sJFEZ",
+            "width": 4032
+        }],
+        "place_id": "ChIJCfybHsH0wokRPQOndRaM_40",
+        "plus_code":
+        {
+            "compound_code": "R4MQ+GF New York, NY, USA",
+            "global_code": "87G8R4MQ+GF"
+        },
+        "rating": 4.6,
+        "reference": "ChIJCfybHsH0wokRPQOndRaM_40",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 39,
+        "vicinity": "1300 Virginia Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8338037,
+                "lng": -73.86118859999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8351051802915,
+                    "lng": -73.85972446970848
+                },
+                "southwest":
+                {
+                    "lat": 40.8324072197085,
+                    "lng": -73.86242243029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Boston Market",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1641,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/105170431124683218627\">Marc Gonzalez</a>"],
+            "photo_reference": "ATtYBwKUmjRpHggAsBK0iSUWpszUHJh1pa2tz-BNUNDfKj_2N46FCTrRUyeWzgBCLfbqtnQ6v--OsiDP-qsZFRFptDC8qvkf2DRWuDKy-O8n2anKWeWls_sOyR7ImPD9dSxIStfmptXqqkBPvO98EGzIyPGXFlD7dyXdxIgF2j0V0r5TFUH0",
+            "width": 2897
+        }],
+        "place_id": "ChIJB74TH8H0wokR_gD2UPHSWfo",
+        "plus_code":
+        {
+            "compound_code": "R4MQ+GG New York, NY, USA",
+            "global_code": "87G8R4MQ+GG"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJB74TH8H0wokR_gD2UPHSWfo",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 459,
+        "vicinity": "29 Hugh J. Grant Circle, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8503353,
+                "lng": -73.851727
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.85161078029151,
+                    "lng": -73.8503412697085
+                },
+                "southwest":
+                {
+                    "lat": 40.84891281970851,
+                    "lng": -73.8530392302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "The Healthy Kitchen",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1459,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/116081393828781074501\">The Healthy Kitchen</a>"],
+            "photo_reference": "ATtYBwJP-yd82GmbDVpMvZHy7LGzNBn_eTdEzkMfsaw5lxGK5SB2kBnrelqnQVf0QdaIXcRw7YtK6tXlNY6IQ9D-8TtLIGlbfhO_F3puk8z_i9hM-jpt7UZHHtKMp-DcwDhPMSptrRuTHrXC_QGsECjE5XcOyQPq35UiSYW40cKulqw1EQmO",
+            "width": 2027
+        }],
+        "place_id": "ChIJt7Thzqj0wokRl-3LGRnMXaM",
+        "plus_code":
+        {
+            "compound_code": "V42X+48 Bronx, NY, USA",
+            "global_code": "87G8V42X+48"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJt7Thzqj0wokRl-3LGRnMXaM",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "meal_delivery", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 194,
+        "vicinity": "1135C Morris Park Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8362928,
+                "lng": -73.8548804
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8375364802915,
+                    "lng": -73.85350671970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8348385197085,
+                    "lng": -73.8562046802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Al-Aqsa Restaurant",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 2340,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/116294836566778071959\">Mohammad Hossain</a>"],
+            "photo_reference": "ATtYBwI_JgwffHbAbvzBtb8GDqSNfrKOrEid0xCK3jZ2NcpLY_WmoruZYJqVJVBjWtQtT5iIKz1ewOvGnSKj2RYVsGNmjljDIKC7XTvYNR79v0EYs4MBYN91B_4g7ZaI4JN75W-7HykBQbdoIeX6Rnuduel1plI1apN-SmRZjE1r0k64U3U",
+            "width": 4160
+        }],
+        "place_id": "ChIJK_GLEbj0wokRdw7F14GNGoI",
+        "plus_code":
+        {
+            "compound_code": "R4PW+G2 New York, NY, USA",
+            "global_code": "87G8R4PW+G2"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJK_GLEbj0wokRdw7F14GNGoI",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 647,
+        "vicinity": "2107 Starling Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8561752,
+                "lng": -73.867452
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.85752608029149,
+                    "lng": -73.8662008197085
+                },
+                "southwest":
+                {
+                    "lat": 40.85482811970849,
+                    "lng": -73.8688987802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "name": "Starbucks",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3036,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/113419507180714868780\">Andre</a>"],
+            "photo_reference": "ATtYBwK6azd6z3UaqoYV8DpblIoILHyqeQ5WC1ctDVS_gtXhK9EmG6_BELPf-AigxJUT_4wvo32hOM8Z7FmBcX_hougZiYMN_9XWE1-iZTKWA7TBkM4epjVyawbRnIztrd0p9Ghldumy1SKdP03-bSUY55AARaMzAGf5WQ9oIaSLwfE4RSMx",
+            "width": 4048
+        }],
+        "place_id": "ChIJkW2Qxp_0wokRh5wioK7G_js",
+        "plus_code":
+        {
+            "compound_code": "V44M+F2 New York, NY, USA",
+            "global_code": "87G8V44M+F2"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJkW2Qxp_0wokRh5wioK7G_js",
+        "scope": "GOOGLE",
+        "types": ["cafe", "restaurant", "food", "point_of_interest", "store", "establishment"],
+        "user_ratings_total": 564,
+        "vicinity": "2188 White Plains Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8359353,
+                "lng": -73.854874
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8373526802915,
+                    "lng": -73.85354946970848
+                },
+                "southwest":
+                {
+                    "lat": 40.8346547197085,
+                    "lng": -73.8562474302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Premium Sweets and Restuarant",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3864,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/116971103335270434036\">Rabiul Hasan</a>"],
+            "photo_reference": "ATtYBwLm9FFhHt7QkHU0I3PdxRPQ2BhC7o3CyCWgQNcbW__pkQw8ehWUekQ199jhY6GV6XDjJsnMeoqJhOUyEM8Q4ndtel7yPSTlYJahzMrvUstkfnjvF4elWdJxHmonuFyOR7vi5_w2Bb_3CDC0P3zz40RFqkvPozNDSJKk_TNOAIs7QVAg",
+            "width": 5152
+        }],
+        "place_id": "ChIJO07wC7j0wokRS2EFMPIDBps",
+        "plus_code":
+        {
+            "compound_code": "R4PW+93 Bronx, NY, USA",
+            "global_code": "87G8R4PW+93"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJO07wC7j0wokRS2EFMPIDBps",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 316,
+        "vicinity": "2104 Starling Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.84060650000001,
+                "lng": -73.87915269999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8420593802915,
+                    "lng": -73.87799746970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8393614197085,
+                    "lng": -73.8806954302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Subway",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3264,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/101333598756599269041\">The Advocate</a>"],
+            "photo_reference": "ATtYBwJ16ciqffhdHBNH9D_Ef2mCqcB9D15nE0QexqF65HEKDLjvZVK6jgmIC0pidg6NMk1LDIootASz5Q2fGgmB7lIICB9eoqgzyrr77iyquDvwYEIajm0DKl8vygAu2fjR9SW1-waTLPU1YUrYhpZp_alCQi8jboXtSwmDYHfcwcurKjXp",
+            "width": 2448
+        }],
+        "place_id": "ChIJw4vzGo30wokRQoxtXD5HPzM",
+        "plus_code":
+        {
+            "compound_code": "R4RC+68 New York, NY, USA",
+            "global_code": "87G8R4RC+68"
+        },
+        "price_level": 1,
+        "rating": 2.6,
+        "reference": "ChIJw4vzGo30wokRQoxtXD5HPzM",
+        "scope": "GOOGLE",
+        "types": ["meal_takeaway", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 26,
+        "vicinity": "2026 Boston Road Store 10, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.832814,
+                "lng": -73.86394899999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8340546302915,
+                    "lng": -73.86254611970848
+                },
+                "southwest":
+                {
+                    "lat": 40.83135666970851,
+                    "lng": -73.86524408029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Isla Cafe",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 2250,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110367215189890901946\">Isla Cafe</a>"],
+            "photo_reference": "ATtYBwJ32a5norrcGMK7-2yFy9cq4za2F5Z7vTMHPVpGJh0OKjHxuc8zueSz-v3XoLkfFiv3qdJUZ5K4r-26JHYhdqCy0YcmkC0ET69xsFC16aLWar606uc_T7IFlEbv2iCqkxXyTRxPNHWJzlKtPeSdm8HZ1rSU2s9Fl0pG0x6RQ319n1Da",
+            "width": 3000
+        }],
+        "place_id": "ChIJqwjBksH0wokR4QzuRuD_aeo",
+        "plus_code":
+        {
+            "compound_code": "R4MP+4C Bronx, NY, USA",
+            "global_code": "87G8R4MP+4C"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJqwjBksH0wokR4QzuRuD_aeo",
+        "scope": "GOOGLE",
+        "types": ["cafe", "bar", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 403,
+        "vicinity": "1859 Westchester Avenue, Bronx"
+    }],
+    "status": "OK"
+}

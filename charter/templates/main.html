@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Page Title</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="example"></div>
+        <button id="submit">Submit</button>
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.0.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.js"></script>
+    <script type="text/javascript">
+	    var container = document.getElementById('example');
+
+	    hot = new Handsontable(container, {
+	        startRows: 8,
+	        startCols: 6,
+	        rowHeaders: true,
+	        colHeaders: true,
+	        licenseKey: "non-commercial-and-evaluation",
+	    });
+
+	    // Handsontable.dom.addEvent(load, 'click', function() {
+	    //     ajax('scripts/json/load.json', 'GET', '', function(res) {
+	    //         var data = JSON.parse(res.response);
+
+	    //         hot.loadData(data.data);
+	    //         exampleConsole.innerText = 'Data loaded';
+	    //     });
+	    // });
+
+	    // Handsontable.dom.addEvent(save, 'click', function() {
+	    //     // save all cell's data
+	    //     ajax('scripts/json/save.json', 'GET', JSON.stringify({ data: hot.getData() }), function(res) {
+	    //         var response = JSON.parse(res.response);
+
+	    //         if (response.result === 'ok') {
+	    //             exampleConsole.innerText = 'Data saved';
+	    //         } else {
+	    //             exampleConsole.innerText = 'Save error';
+	    //         }
+	    //     });
+	    // });
+
+	    // Handsontable.dom.addEvent(autosave, 'click', function() {
+	    //     if (autosave.checked) {
+	    //         exampleConsole.innerText = 'Changes will be autosaved';
+	    //     } else {
+	    //         exampleConsole.innerText = 'Changes will not be autosaved';
+	    //     }
+	    // });
+	    $( "#submit" ).click(function() {
+		  console.log(hot.getData());
+		});
+    </script>
+</body>
+
+</html>

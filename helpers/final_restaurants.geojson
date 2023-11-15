@@ -1,0 +1,3124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9774216, 40.7605396] },
+      "properties": {
+        "name": "21 Club",
+        "address": "21 West 52nd Street, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9034092, 40.8288488] },
+      "properties": {
+        "name": "509 Pizzeria",
+        "address": "1167 Boston Road, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8955415, 40.812396] },
+      "properties": {
+        "name": "7-Eleven - Closed",
+        "address": "1081 Leggett Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8918899, 40.8460887] },
+      "properties": {
+        "name": "7-Eleven - CLOSED - Closed",
+        "address": "645 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9031172, 40.8518146] },
+      "properties": {
+        "name": "AA",
+        "address": "214 East Burnside Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8902284, 40.8117034] },
+      "properties": {
+        "name": "Allen's Restaurant",
+        "address": "1201 Randall Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.942666, 40.7947646] },
+      "properties": {
+        "name": "Amor Cubano",
+        "address": "2018 3rd Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9502679, 40.8025539] },
+      "properties": {
+        "name": "Amy Ruth's",
+        "address": "113 West 116th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0007278, 40.73] },
+      "properties": {
+        "name": "Artichoke Basille's Pizza",
+        "address": "111 MacDougal Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9565498, 40.8025144] },
+      "properties": {
+        "name": "Atomic Wings",
+        "address": "2090 Frederick Douglass Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8876429, 40.7434891] },
+      "properties": {
+        "name": "Ayada",
+        "address": "7708 Woodside Avenue, Queens",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9532341, 40.8061974] },
+      "properties": {
+        "name": "B2 Harlem",
+        "address": "271 West 119th Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9992785, 40.732296] },
+      "properties": {
+        "name": "Babbo",
+        "address": "110 Waverly Place, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9982298, 40.722668] },
+      "properties": {
+        "name": "Balthazar",
+        "address": "80 Spring Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.917863, 40.834958] },
+      "properties": {
+        "name": "Bar In Control",
+        "address": "1215 Grand Concourse, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.010336, 40.704129] },
+      "properties": {
+        "name": "Beckett's Bar & Grill",
+        "address": "81 Pearl Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9858841, 40.73292] },
+      "properties": {
+        "name": "Beyond Sushi",
+        "address": "229 East 14th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9260254, 40.8270912] },
+      "properties": {
+        "name": "Billy's",
+        "address": "856 River Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9803035, 40.7610718] },
+      "properties": {
+        "name": "Bistro New York",
+        "address": "1285 6th Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.92159, 40.82626] },
+      "properties": {
+        "name": "Blimpie America's Sub Shop",
+        "address": "196 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9853654, 40.7592186] },
+      "properties": {
+        "name": "Blue Fin",
+        "address": "1567 Broadway, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9026168, 40.8318303] },
+      "properties": {
+        "name": "Bognan",
+        "address": "590 East 169th Street, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.888827, 40.8184732] },
+      "properties": {
+        "name": "Boogie Down Grind",
+        "address": "868 Hunts Point Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9158091, 40.8155327] },
+      "properties": {
+        "name": "Boston Market",
+        "address": "451 East 149th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.934284, 40.85352] },
+      "properties": {
+        "name": "bp",
+        "address": "4353 Broadway, New York",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9282613, 40.8155964] },
+      "properties": {
+        "name": "bp",
+        "address": "350 Grand Concourse, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9111622, 40.8054944] },
+      "properties": {
+        "name": "bp",
+        "address": "281 Bruckner Boulevard, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8814727, 40.8286043] },
+      "properties": {
+        "name": "Bravo",
+        "address": "1473 Westchester Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9573945, 40.7218813] },
+      "properties": {
+        "name": "Brooklyn Bowl",
+        "address": "61 Wythe Avenue, Brooklyn",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9273017, 40.8212272] },
+      "properties": {
+        "name": "Brothers Seafood",
+        "address": "632 Walton Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.982957, 40.7531999] },
+      "properties": {
+        "name": "Bryant Park Grill",
+        "address": "25 West 40th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9785597, 40.764215] },
+      "properties": {
+        "name": "burger joint",
+        "address": "119 West 56th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8849344, 40.8371549] },
+      "properties": {
+        "name": "Burger King",
+        "address": "961 East 174th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8752338, 40.8295187] },
+      "properties": {
+        "name": "Burger King",
+        "address": "1607 Westchester Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9273136, 40.8190183] },
+      "properties": {
+        "name": "Burger King",
+        "address": "557 Grand Concourse, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9210018, 40.8248899] },
+      "properties": {
+        "name": "Burger King",
+        "address": "216 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9552275, 40.8203471] },
+      "properties": {
+        "name": "Bus Stop Diner",
+        "address": "3341 Broadway, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8971362, 40.8471821] },
+      "properties": {
+        "name": "Cachapa Cachapa",
+        "address": "1903 Bathgate Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8892025, 40.8237463] },
+      "properties": {
+        "name": "Cake N Wings",
+        "address": "1012 Faile Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8864694, 40.8270358] },
+      "properties": {
+        "name": "Caribbean Grill",
+        "address": "1294 Westchester Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8756355, 40.8289558] },
+      "properties": {
+        "name": "Caridad",
+        "address": "1594 Westchester Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.986654, 40.757498] },
+      "properties": {
+        "name": "Carmine's Italian Restaurant - Times Square",
+        "address": "200 West 44th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9086802, 40.8237252] },
+      "properties": {
+        "name": "Cestra's Pizza II",
+        "address": "3240 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9482674, 40.8146145] },
+      "properties": {
+        "name": "Charles' Pan Fried Chicken",
+        "address": "2461 Frederick Douglass Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9320616, 40.8520015] },
+      "properties": {
+        "name": "Charlie's",
+        "address": "1501 Saint Nicholas Avenue, New York",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9291873, 40.8078563] },
+      "properties": {
+        "name": "Charlies Bar & Kitchen",
+        "address": "112 Lincoln Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0180351, 40.7607] },
+      "properties": {
+        "name": "Chart House",
+        "address": "1700 Harbor Boulevard, Weehawken",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9190921, 40.8255091] },
+      "properties": {
+        "name": "Checkers",
+        "address": "260 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9228794, 40.8360593] },
+      "properties": {
+        "name": "Checkers",
+        "address": "1203 Jerome Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8916148, 40.8245502] },
+      "properties": {
+        "name": "Checkers",
+        "address": "1058 Southern Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9450502, 40.8239931] },
+      "properties": {
+        "name": "Checkers",
+        "address": "695 Saint Nicholas Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.875699, 40.8295449] },
+      "properties": {
+        "name": "China Garden Restaurant",
+        "address": "1205 Stratford Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8946918, 40.850835] },
+      "properties": {
+        "name": "China New Wok",
+        "address": "512 East 180th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8848514, 40.8365145] },
+      "properties": {
+        "name": "Chinese Fried Chicken",
+        "address": "985 East 174th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9200799, 40.8526175] },
+      "properties": {
+        "name": "Chinese Gourmet",
+        "address": "1809 Cedar Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9398763, 40.8415008] },
+      "properties": {
+        "name": "Chipotle Mexican Grill",
+        "address": "4009 Broadway, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9190145, 40.8255424] },
+      "properties": {
+        "name": "Chipotle Mexican Grill",
+        "address": "260 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9538378, 40.8069848] },
+      "properties": {
+        "name": "Chocolat Restaurant & Bar",
+        "address": "2223 Frederick Douglass Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9297252, 40.8501832] },
+      "properties": {
+        "name": "Chop Chop",
+        "address": "501 West 184th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9302874, 40.823963] },
+      "properties": {
+        "name": "Chuck E. Cheese",
+        "address": "700 Exterior Street, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8846809, 40.8102546] },
+      "properties": {
+        "name": "City Tamale Inc",
+        "address": "1316 Oak Point Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9209893, 40.8269114] },
+      "properties": {
+        "name": "CityView",
+        "address": "901 Sheridan Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.964809, 40.922675] },
+      "properties": {
+        "name": "Clinton Inn Hotel & Event Center",
+        "address": "145 Dean Drive, Tenafly",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.918333, 40.838998] },
+      "properties": {
+        "name": "Coffee cosina",
+        "address": "1350 Jerome Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.954989, 40.8039429] },
+      "properties": {
+        "name": "Community Kitchen-West Harlem",
+        "address": "252 West 116th Street, New York",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9835798, 40.7573681] },
+      "properties": {
+        "name": "Connolly's",
+        "address": "121 West 45th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9452014, 40.80867] },
+      "properties": {
+        "name": "Corner Social",
+        "address": "321 Malcolm X Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9305048, 40.7955594] },
+      "properties": {
+        "name": "Costco Food Court",
+        "address": "517 East 117th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9244796, 40.8270316] },
+      "properties": {
+        "name": "Court Deli",
+        "address": "96 East 161 Street, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.924911, 40.827804] },
+      "properties": {
+        "name": "Crown Diner",
+        "address": "79 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9009287, 40.821851] },
+      "properties": {
+        "name": "Crown Fried Chicken",
+        "address": "921 Prospect Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9339198, 40.7984572] },
+      "properties": {
+        "name": "Crown Fried Chicken",
+        "address": "2333 1st Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.912657, 40.821014] },
+      "properties": {
+        "name": "Daisy's Pizza",
+        "address": "3075 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.940451, 40.8396572] },
+      "properties": {
+        "name": "Dallas BBQ",
+        "address": "3956 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9675769, 40.7668083] },
+      "properties": {
+        "name": "Daniel",
+        "address": "60 East 65th Street, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.938056, 40.805003] },
+      "properties": {
+        "name": "Danny's Delish Word Pizza",
+        "address": "113 East 125th Street, New York",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9334477, 40.7984058] },
+      "properties": { "name": "David's", "address": "New York", "$": "3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8789634, 40.8341781] },
+      "properties": {
+        "name": "Deilines",
+        "address": "1544 East 174th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.98222, 40.7594099] },
+      "properties": {
+        "name": "Del Frisco's Double Eagle Steakhouse",
+        "address": "1221 6th Avenue, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9615228, 40.6250267] },
+      "properties": {
+        "name": "Di Fara Pizza",
+        "address": "1424 Avenue J, Brooklyn",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9608451, 40.8180137] },
+      "properties": {
+        "name": "Dinosaur Bar-B-Que",
+        "address": "700 West 125th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9209907, 40.8358728] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "41 East 167th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.908214, 40.835338] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "1351 Webster Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9070365, 40.8545415] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "2075 Jerome Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8836145, 40.8419492] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "921 East Tremont Avenue Ste A, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9380415, 40.8235759] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "2554 Adam Clayton Powell Junior Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9135956, 40.8198258] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "3025 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9205069, 40.8249049] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "220 East 161 Street Ste C, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9411238, 40.7986495] },
+      "properties": {
+        "name": "Domino's Pizza",
+        "address": "153 East 116th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9270298, 40.8068737] },
+      "properties": {
+        "name": "Don Pancho's",
+        "address": "43 Bruckner Boulevard, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0054753, 40.7404331] },
+      "properties": {
+        "name": "Dos Caminos",
+        "address": "675 Hudson Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9886495, 40.7163226] },
+      "properties": {
+        "name": "Doughnut Plant",
+        "address": "379 Grand Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8885196, 40.8481185] },
+      "properties": {
+        "name": "Dragon Sea",
+        "address": "703 East 180th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9088392, 40.8536654] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "26 West Burnside Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9023027, 40.8460242] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "Gulf Gas Station, 1805 Webster Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8877653, 40.8380219] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "1779 Southern Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8887772, 40.8440771] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "760 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8915414, 40.8204222] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "925 Hunts Point Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8705729, 40.8354835] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "Bp, 1730 Cross Bronx Expressway, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9189476, 40.825546] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "260 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9135069, 40.8199185] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "3033 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9018064, 40.8199753] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "839 Prospect Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8972098, 40.8150827] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "In Mobil, 762 Southern Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.915643, 40.8154945] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "459 East 149th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9369984, 40.8046289] },
+      "properties": {
+        "name": "Dunkin'",
+        "address": "2083 Lexington Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.3361129, 40.5226058] },
+      "properties": {
+        "name": "E Hotel Banquet & Conference Center",
+        "address": "3050 Woodbridge Avenue, Edison",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9189421, 40.8066811] },
+      "properties": {
+        "name": "Eat Better Deli and Grill",
+        "address": "4202, 527 East 137th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9207202, 40.8374845] },
+      "properties": {
+        "name": "El Caldero",
+        "address": "1267 Jerome Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9195895, 40.80742] },
+      "properties": {
+        "name": "El Cantinero Poblano",
+        "address": "231 Brook Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9083365, 40.807323] },
+      "properties": {
+        "name": "El Don Pichon",
+        "address": "359 Southern Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8874655, 40.8371396] },
+      "properties": {
+        "name": "El Gran Valle",
+        "address": "920 East 174th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9043851, 40.8490864] },
+      "properties": {
+        "name": "El Grande Chef",
+        "address": "237 East Tremont Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.938121, 40.7969681] },
+      "properties": {
+        "name": "El Nuevo Caridad",
+        "address": "2257 2nd Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9024188, 40.8127809] },
+      "properties": {
+        "name": "El Nuevo Mexico Lindo",
+        "address": "587 Southern Boulevard, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8834777, 40.8457403] },
+      "properties": {
+        "name": "EL Nuevo Valle #2",
+        "address": "855 East 180th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9209412, 40.8051845] },
+      "properties": {
+        "name": "El Taquitos",
+        "address": "138 Brook Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8897222, 40.845] },
+      "properties": {
+        "name": "El valle",
+        "address": "733 East Tremont Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8934237, 40.8235502] },
+      "properties": {
+        "name": "El Valle",
+        "address": "1008 Westchester Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.909594, 40.852131] },
+      "properties": {
+        "name": "Elena's Restaurant",
+        "address": "5 West Tremont Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9834356, 40.7618723] },
+      "properties": {
+        "name": "Ellen's Stardust Diner",
+        "address": "1650 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.934384, 40.797756] },
+      "properties": {
+        "name": "Evelyn's Kitchen",
+        "address": "2317 1st Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.944591, 40.8236998] },
+      "properties": {
+        "name": "Famous Fish Market",
+        "address": "684 Saint Nicholas Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.922134, 40.818101] },
+      "properties": {
+        "name": "Felix Nutrition Center Herbalife Independent Distributor",
+        "address": "271 East 150th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.927193, 40.8195112] },
+      "properties": {
+        "name": "G Bar",
+        "address": "579 Grand Concourse, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.911569, 40.8476186] },
+      "properties": {
+        "name": "Galagala",
+        "address": "13 East 175th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.916665, 40.818091] },
+      "properties": {
+        "name": "Gar's Pizzeria",
+        "address": "626 Melrose Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0046268, 40.7221457] },
+      "properties": {
+        "name": "Gilligan's",
+        "address": "310 West Broadway, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9447535, 40.8080989] },
+      "properties": {
+        "name": "Ginny's Supper Club",
+        "address": "310 Malcolm X Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9272205, 40.8194431] },
+      "properties": {
+        "name": "Giovanni's",
+        "address": "579 Grand Concourse, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9281685, 40.8515059] },
+      "properties": {
+        "name": "Golan Heights",
+        "address": "2553 Amsterdam Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9024429, 40.8411064] },
+      "properties": {
+        "name": "Golden Krust",
+        "address": "3958 Park Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.941582, 40.8125859] },
+      "properties": {
+        "name": "Golden Krust",
+        "address": "456 Malcolm X Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.946557, 40.808843] },
+      "properties": {
+        "name": "Golden Krust Caribbean Restaurant",
+        "address": "70 West 125th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9363765, 40.8498569] },
+      "properties": {
+        "name": "Golden Star",
+        "address": "4247 Broadway, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9178641, 40.8255641] },
+      "properties": {
+        "name": "Good Taste",
+        "address": "281 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9258845, 40.82854] },
+      "properties": {
+        "name": "Hard Rock Cafe",
+        "address": "1 East 161 Street, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9866112, 40.7570352] },
+      "properties": {
+        "name": "Hard Rock Cafe",
+        "address": "1501 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.950395, 40.8116845] },
+      "properties": {
+        "name": "Harlem Bar-B-Q",
+        "address": "2367 Frederick Douglass Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9463378, 40.80711] },
+      "properties": {
+        "name": "Harlem Shake",
+        "address": "100 West 124th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9554794, 40.8047593] },
+      "properties": {
+        "name": "Harlem Tavern",
+        "address": "2153 Frederick Douglass Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9215818, 40.825094] },
+      "properties": {
+        "name": "Hibachi Grill & Supreme Buffet",
+        "address": "200 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9167395, 40.8284331] },
+      "properties": {
+        "name": "Hungry Bird",
+        "address": "980 Morris Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8696807, 40.8326917] },
+      "properties": {
+        "name": "I Love NY Pizza",
+        "address": "1739 East 172nd Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8842015, 40.8374967] },
+      "properties": {
+        "name": "IHOP",
+        "address": "961 East 174th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9441443, 40.8152405] },
+      "properties": {
+        "name": "IHOP",
+        "address": "2294 Adam Clayton Powell Junior Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9372813, 40.8048375] },
+      "properties": {
+        "name": "IHOP",
+        "address": "2082 Lexington Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9483333, 40.8043667] },
+      "properties": {
+        "name": "Il Cafe Latte 1",
+        "address": "189 Malcolm X Boulevard # 1, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9399914, 40.7942869] },
+      "properties": {
+        "name": "Indo Pak Halal",
+        "address": "2173 2nd Avenue #2909, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9228566, 40.8087472] },
+      "properties": {
+        "name": "iPizzaNY",
+        "address": "232 Willis Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9440245, 40.810265] },
+      "properties": {
+        "name": "Jacob",
+        "address": "373 Malcolm X Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9429692, 40.8217155] },
+      "properties": {
+        "name": "Jacob Restaurant",
+        "address": "2695 Frederick Douglass Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9378412, 40.8383343] },
+      "properties": {
+        "name": "Jade House",
+        "address": "2131 Amsterdam Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9253034, 40.8410548] },
+      "properties": {
+        "name": "Jc Green Life Nyc",
+        "address": "1343 Ogden Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.92596, 40.82898] },
+      "properties": {
+        "name": "Jersey Mike's Subs",
+        "address": "Yankee Stadium One, East 161 Street",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9090618, 40.8523588] },
+      "properties": {
+        "name": "Jimbo's Hamburger Palace",
+        "address": "1977 Jerome Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8777906, 40.8391801] },
+      "properties": {
+        "name": "Jimbo's Hamburger Palace",
+        "address": "346 Devoe Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9229162, 40.8085926] },
+      "properties": {
+        "name": "Jimbo's Hamburgers",
+        "address": "228 Willis Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8937275, 40.8506906] },
+      "properties": {
+        "name": "Johnny's Pizza Diner",
+        "address": "535 East 180th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9137282, 40.8259606] },
+      "properties": {
+        "name": "Karima Shipping Enterprises Inc.",
+        "address": "945 Courtlandt Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9864611, 40.7507861] },
+      "properties": {
+        "name": "Keens Steakhouse",
+        "address": "72 West 36th Street, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9186661, 40.8188152] },
+      "properties": {
+        "name": "Kennedy Chicken",
+        "address": "639 Courtlandt Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9042679, 40.8522571] },
+      "properties": {
+        "name": "Kennedy Chicken And Pizza",
+        "address": "2041 Grand Concourse, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9169278, 40.8340478] },
+      "properties": {
+        "name": "Kennedy Fried Chicken",
+        "address": "198 East 167th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9091529, 40.8516107] },
+      "properties": {
+        "name": "Kennedy Fried Chicken",
+        "address": "2 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9060743, 40.8176966] },
+      "properties": {
+        "name": "Kennedy Fried Chicken",
+        "address": "733 Westchester Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9133525, 40.8201411] },
+      "properties": {
+        "name": "Kennedy Fried Chicken",
+        "address": "3045 3rd Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.917773, 40.8066572] },
+      "properties": {
+        "name": "Kennedy Fried Chicken",
+        "address": "548 East 138th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9143728, 40.8443626] },
+      "properties": {
+        "name": "Kennedy Fried Chicken & Pizza",
+        "address": "13 East Mount Eden Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8917541, 40.8302085] },
+      "properties": {
+        "name": "Kennedy Fried Chicken And barges",
+        "address": "1282 Southern Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9363947, 40.8209538] },
+      "properties": {
+        "name": "KFC",
+        "address": "707 Malcolm X Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9215, 40.8459] },
+      "properties": {
+        "name": "Krystal Bar & Lounge",
+        "address": "1534 University Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9332381, 40.8503448] },
+      "properties": {
+        "name": "La Casa Del Mofongo",
+        "address": "1447 Saint Nicholas Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9452729, 40.8240987] },
+      "properties": {
+        "name": "La Cocina De Agave",
+        "address": "398 West 145th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9000558, 40.8152627] },
+      "properties": {
+        "name": "La Cueva Fonda",
+        "address": "961 Leggett Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9030739, 40.8121383] },
+      "properties": {
+        "name": "La Espiga 3 Estrellas",
+        "address": "558 Southern Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9162974, 40.8197904] },
+      "properties": {
+        "name": "La Hora Decisiva",
+        "address": "689 Melrose Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.940233, 40.793245] },
+      "properties": {
+        "name": "La Nostra Pizzeria",
+        "address": "2146 2nd Avenue #3207, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9030739, 40.8121383] },
+      "properties": {
+        "name": "La Patrona Restaurant",
+        "address": "558 Southern Boulevard, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9883517, 40.7514762] },
+      "properties": {
+        "name": "Lan Sheng",
+        "address": "128 West 36th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9104406, 40.8499621] },
+      "properties": {
+        "name": "Las Sirenas",
+        "address": "1896 Jerome Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9547605, 40.8049256] },
+      "properties": {
+        "name": "Lido Restaurant",
+        "address": "2168 Frederick Douglass Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.874087, 40.829947] },
+      "properties": {
+        "name": "Lincoln Fried Chicken",
+        "address": "1635 Westchester Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9086802, 40.8237252] },
+      "properties": {
+        "name": "Linda's Pizzeria",
+        "address": "3240 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9354693, 40.8464253] },
+      "properties": {
+        "name": "Little Caesars Pizza",
+        "address": "1332 Saint Nicholas Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.914958, 40.844337] },
+      "properties": {
+        "name": "Little Caesars Pizza",
+        "address": "4 West Mount Eden Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8916639, 40.8245995] },
+      "properties": {
+        "name": "Little Caesars Pizza",
+        "address": "1058 Southern Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.904956, 40.8126099] },
+      "properties": {
+        "name": "Little Caesars Pizza",
+        "address": "841 East 149th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9956856, 40.7215781] },
+      "properties": {
+        "name": "Lombardi's",
+        "address": "32 Spring Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9442579, 40.81936] },
+      "properties": {
+        "name": "Londel's",
+        "address": "2620 Frederick Douglass Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9186459, 40.8189192] },
+      "properties": {
+        "name": "Los Hermanos Salazar",
+        "address": "645 Courtlandt Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9148764, 40.8147648] },
+      "properties": {
+        "name": "Los Nisperos",
+        "address": "500 East 149th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9284044, 40.8068497] },
+      "properties": {
+        "name": "Made In Puerto Rico Bar & Lounge",
+        "address": "26 Bruckner Boulevard, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0049673, 40.7358805] },
+      "properties": {
+        "name": "Magnolia",
+        "address": "West 11th Street, 401 Bleecker Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9516596, 40.8122086] },
+      "properties": {
+        "name": "Maison Harlem",
+        "address": "341 Saint Nicholas Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9358857, 40.7956436] },
+      "properties": {
+        "name": "MAKANA",
+        "address": "2245 1st Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9386195, 40.8464014] },
+      "properties": {
+        "name": "Malecon",
+        "address": "4141 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9438883, 40.8206701] },
+      "properties": {
+        "name": "Mama Tina's Pizzeria",
+        "address": "2649 Frederick Douglass Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9410506, 40.8133241] },
+      "properties": {
+        "name": "Manna's",
+        "address": "486 Malcolm X Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9404302, 40.8055005] },
+      "properties": {
+        "name": "Manna's",
+        "address": "54 East 125th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.938372, 40.847218] },
+      "properties": {
+        "name": "Manolo Tapas",
+        "address": "4165 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9025749, 40.8158754] },
+      "properties": {
+        "name": "Margarita's",
+        "address": "915 Avenue Saint John, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.893653, 40.82416] },
+      "properties": {
+        "name": "Mario's Pizza II",
+        "address": "1011 Westchester Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9202294, 40.8509269] },
+      "properties": {
+        "name": "Marisco Centro",
+        "address": "1736 Undercliff Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.958608, 40.809733] },
+      "properties": {
+        "name": "Massawa",
+        "address": "1239 Amsterdam Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9140183, 40.8059453] },
+      "properties": {
+        "name": "Master Grill",
+        "address": "262 Cypress Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9583081, 40.8108742] },
+      "properties": {
+        "name": "Max Caff\u00e8",
+        "address": "1262 Amsterdam Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9252853, 40.8280157] },
+      "properties": {
+        "name": "McDonald's",
+        "address": "51-67 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9360547, 40.8501221] },
+      "properties": {
+        "name": "McDonald's",
+        "address": "4259 Broadway, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.916202, 40.850258] },
+      "properties": {
+        "name": "McDonald's",
+        "address": "1745 University Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8934706, 40.8465891] },
+      "properties": {
+        "name": "McDonald's",
+        "address": "599 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.908625, 40.8251833] },
+      "properties": {
+        "name": "McDonald's",
+        "address": "3279 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8914534, 40.8203683] },
+      "properties": {
+        "name": "McDonald's",
+        "address": "925 Hunts Point Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9413396, 40.8179362] },
+      "properties": {
+        "name": "McDonald's",
+        "address": "2379 Adam Clayton Powell Junior Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9005395, 40.8431661] },
+      "properties": {
+        "name": "Mela's",
+        "address": "1735 Washington Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9566295, 40.80311] },
+      "properties": {
+        "name": "Melba's",
+        "address": "300 West 114th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9097329, 40.811954] },
+      "properties": {
+        "name": "Mexicocina Mezcaleria",
+        "address": "503 Jackson Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9188435, 40.8351196] },
+      "properties": {
+        "name": "Mi Pueblito",
+        "address": "111 East 167th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9323059, 40.8507505] },
+      "properties": {
+        "name": "Mi Ranchito",
+        "address": "1468 Saint Nicholas Avenue, New York",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9148787, 40.8144236] },
+      "properties": {
+        "name": "Mi Romance Ecuatoriano Lucho Barrios",
+        "address": "524 A Brook Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.952323, 40.804596] },
+      "properties": {
+        "name": "Minton's Playhouse",
+        "address": "206 West 118th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8836079, 40.8121063] },
+      "properties": {
+        "name": "Mogridder's BBQ",
+        "address": "565 Hunts Point Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.924306, 40.82763] },
+      "properties": {
+        "name": "Molino Rojo Restaurant",
+        "address": "101 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.984415, 40.7292083] },
+      "properties": {
+        "name": "Momofuku Noodle Bar",
+        "address": "171 1st Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.926808, 40.807227] },
+      "properties": {
+        "name": "Monte's Brick Oven",
+        "address": "136 Alexander Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9787657, 40.7552153] },
+      "properties": {
+        "name": "Morton's The Steakhouse",
+        "address": "551 5th Avenue, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.930453, 40.808266] },
+      "properties": {
+        "name": "Mott Haven Bar & Grill",
+        "address": "1 Bruckner Boulevard, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9216761, 40.8101505] },
+      "properties": {
+        "name": "Mottley Kitchen",
+        "address": "402 East 140th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.886682, 40.816568] },
+      "properties": {
+        "name": "New Pepperonis Pizza",
+        "address": "1308 Lafayette Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9578775, 40.8114605] },
+      "properties": {
+        "name": "Nikko",
+        "address": "1280 Amsterdam Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9140642, 40.805894] },
+      "properties": {
+        "name": "No.1 Wok",
+        "address": "260 Cypress Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0000734, 40.7198142] },
+      "properties": {
+        "name": "NOMO SOHO",
+        "address": "9 Crosby Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8720932, 40.8323402] },
+      "properties": {
+        "name": "NY Famous Deli",
+        "address": "1683 East 172nd Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9258825, 40.8284647] },
+      "properties": {
+        "name": "NYY Steak",
+        "address": "1 East 161 Street, Bronx",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9186821, 40.838522] },
+      "properties": {
+        "name": "Olga",
+        "address": "1324 Jerome Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9774311, 40.7524823] },
+      "properties": {
+        "name": "Oyster",
+        "address": "89 East 42nd Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.891609, 40.8491409] },
+      "properties": {
+        "name": "Paco's Pizza",
+        "address": "2086 Arthur Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9081594, 40.8295119] },
+      "properties": {
+        "name": "Pamela",
+        "address": "1141 Washington Avenue #5308, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9089761, 40.8524293] },
+      "properties": {
+        "name": "Papa John's Pizza",
+        "address": "1979 Jerome Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9024272, 40.8361429] },
+      "properties": {
+        "name": "Papa John's Pizza",
+        "address": "3746 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8862186, 40.8428499] },
+      "properties": {
+        "name": "Papa John's Pizza",
+        "address": "868 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8789637, 40.8283748] },
+      "properties": {
+        "name": "Papa John's Pizza",
+        "address": "1520 Westchester Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9193383, 40.8144409] },
+      "properties": {
+        "name": "Papa John's Pizza",
+        "address": "475 Willis Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9364552, 40.8208558] },
+      "properties": {
+        "name": "Papa John's Pizza",
+        "address": "703 Malcolm X Boulevard Unit 2, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9348807, 40.7971528] },
+      "properties": {
+        "name": "Patsy's Pizzeria",
+        "address": "2287 1st Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9173589, 40.8208287] },
+      "properties": {
+        "name": "Pepe Joe's Brick Oven Pizza",
+        "address": "722 Courtlandt Avenue #5004, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9829029, 40.7682407] },
+      "properties": {
+        "name": "Per Se",
+        "address": "4th Floor Time Warner Center, 10 Columbus Circle, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9777384, 40.7520392] },
+      "properties": {
+        "name": "Pershing Square",
+        "address": "90 East 42nd Street #5409, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9140452, 40.8059859] },
+      "properties": {
+        "name": "Pio Pio",
+        "address": "264 Cypress Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9603204, 40.8141746] },
+      "properties": {
+        "name": "Pisticci",
+        "address": "125 La Salle Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9169812, 40.8401352] },
+      "properties": {
+        "name": "Pizza Express",
+        "address": "19 East 170th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9107364, 40.8162659] },
+      "properties": {
+        "name": "Pizza Hut",
+        "address": "601 Westchester Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9851237, 40.7579436] },
+      "properties": {
+        "name": "Planet Hollywood",
+        "address": "1540 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9095223, 40.8248919] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "499 East 163rd Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8856174, 40.8369301] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "949 East 174th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9006762, 40.8477963] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "400 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8745842, 40.8229606] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "1600 Bruckner Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9206977, 40.824811] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "220 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9046352, 40.8125472] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "845 East 149th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.948645, 40.8018712] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "53 West 116th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9522747, 40.8108613] },
+      "properties": {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "321 West 125th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9323374, 40.8507154] },
+      "properties": {
+        "name": "Punto De Sabor",
+        "address": "1464 Saint Nicholas Avenue, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9761481, 40.7650085] },
+      "properties": {
+        "name": "Quality Meats",
+        "address": "57 West 58th Street, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9341881, 40.7940354] },
+      "properties": {
+        "name": "Rao's",
+        "address": "455 East 114th Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.984545, 40.7594424] },
+      "properties": {
+        "name": "Red Lobster",
+        "address": "5 Times Square #5, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9447692, 40.8081052] },
+      "properties": {
+        "name": "Red Rooster",
+        "address": "310 Lenox Avenue, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9406611, 40.7935083] },
+      "properties": {
+        "name": "Ricardo",
+        "address": "2145 2nd Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8923702, 40.8167677] },
+      "properties": {
+        "name": "Rockin' Wellness",
+        "address": "880 Garrison Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8858722, 40.8427086] },
+      "properties": {
+        "name": "Roy's",
+        "address": "880 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0227033, 40.7594423] },
+      "properties": {
+        "name": "Ruth's Chris Steak House",
+        "address": "1000 Harbor Boulevard, Weehawken",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8797462, 40.8282652] },
+      "properties": {
+        "name": "Sabba Chicken & Ribs",
+        "address": "1504 Westchester Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9222356, 40.8181021] },
+      "properties": {
+        "name": "Sabores Restaurant",
+        "address": "582 Morris Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.941632, 40.7983091] },
+      "properties": {
+        "name": "Sams Famous Pizzeria",
+        "address": "150 East 116th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8697474, 40.8328114] },
+      "properties": {
+        "name": "Sandy's Deli & Mexican Grill",
+        "address": "1305 Rosedale Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9727169, 40.7912699] },
+      "properties": {
+        "name": "Scarlatto",
+        "address": "646 Amsterdam Avenue, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9029598, 40.8154018] },
+      "properties": {
+        "name": "Seis Vecinos",
+        "address": "640 Prospect Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9881482, 40.741498] },
+      "properties": {
+        "name": "Shake Shack",
+        "address": "E 23rd St and Madison Avenue Madison Square Park, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.989219, 40.758432] },
+      "properties": {
+        "name": "Shake Shack",
+        "address": "691 8th Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.901762, 40.846707] },
+      "properties": {
+        "name": "Shell",
+        "address": "1845 Webster Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.944, 40.8143] },
+      "properties": {
+        "name": "Shrine",
+        "address": "2271 Adam Clayton Powell Junior Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9559234, 40.8044337] },
+      "properties": {
+        "name": "Silvana",
+        "address": "300 West 116th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.981849, 40.7557052] },
+      "properties": {
+        "name": "Sofitel New York",
+        "address": "45 West 44th Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.866817, 40.831522] },
+      "properties": {
+        "name": "St. Lawrence Pizza and Chicken",
+        "address": "1788 Westchester Avenue, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.939921, 40.841297] },
+      "properties": {
+        "name": "Starbucks",
+        "address": "4001 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.94265, 40.823334] },
+      "properties": {
+        "name": "Starbucks",
+        "address": "301 West 145th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.919426, 40.82571] },
+      "properties": {
+        "name": "Starbucks",
+        "address": "260 East 161 Street, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.945136, 40.807803] },
+      "properties": {
+        "name": "Starbucks",
+        "address": "83 West 125th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0074444, 40.73985] },
+      "properties": {
+        "name": "STK Steakhouse Downtown NYC",
+        "address": "26 Little West 12th Street, New York",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9371161, 40.8492501] },
+      "properties": {
+        "name": "Subway",
+        "address": "4227 Broadway, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9173431, 40.8399142] },
+      "properties": {
+        "name": "Subway",
+        "address": "18 East 170th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8844752, 40.8377802] },
+      "properties": {
+        "name": "Subway",
+        "address": "961 East 174th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.893978, 40.8346179] },
+      "properties": {
+        "name": "Subway",
+        "address": "1490 Boston Road, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8935175, 40.8467023] },
+      "properties": {
+        "name": "Subway",
+        "address": "597 East Tremont Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.89106, 40.8211608] },
+      "properties": {
+        "name": "Subway",
+        "address": "1047 East 163rd Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8734893, 40.8231902] },
+      "properties": {
+        "name": "Subway",
+        "address": "1646 Bruckner Boulevard, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9018567, 40.8199389] },
+      "properties": {
+        "name": "Subway",
+        "address": "839 D Prospect Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8791527, 40.8406065] },
+      "properties": {
+        "name": "Subway",
+        "address": "2026 Boston Road Store 10, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9168038, 40.8159563] },
+      "properties": {
+        "name": "Subway",
+        "address": "423A East 149th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9127563, 40.820287] },
+      "properties": {
+        "name": "Subway",
+        "address": "3044 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.924402, 40.82767] },
+      "properties": {
+        "name": "Subway",
+        "address": "91 East 161 Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9253269, 40.8206059] },
+      "properties": {
+        "name": "Subway",
+        "address": "650 Grand Concourse, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9093419, 40.8233742] },
+      "properties": {
+        "name": "Subway",
+        "address": "New York, 3209 Third Avenue Ground Floor",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9050482, 40.8126341] },
+      "properties": {
+        "name": "Subway",
+        "address": "837 East 149th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9394434, 40.8165905] },
+      "properties": {
+        "name": "Subway",
+        "address": "563 Lenox Street Store #2, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9473069, 40.8166277] },
+      "properties": {
+        "name": "Subway",
+        "address": "300 West 135th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9439968, 40.801499] },
+      "properties": {
+        "name": "Subway",
+        "address": "21 East 118th Street Ground Floor, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9396943, 40.7980314] },
+      "properties": {
+        "name": "Subway",
+        "address": "201 East 116th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9527476, 40.7989249] },
+      "properties": {
+        "name": "Subway",
+        "address": "111 Central Park North Space F, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9580757, 40.8012143] },
+      "properties": {
+        "name": "Subway",
+        "address": "301 Cathedral Parkway Space #3, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.953553, 40.8227044] },
+      "properties": {
+        "name": "Subway",
+        "address": "3419 Broadway, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.918249, 40.840605] },
+      "properties": {
+        "name": "Suyo",
+        "address": "1401 Plaza Drive, Bronx",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.944479, 40.8086445] },
+      "properties": {
+        "name": "Sylvia's",
+        "address": "328 Malcolm X Boulevard, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9033727, 40.8438659] },
+      "properties": {
+        "name": "Taco Bell",
+        "address": "1731 Webster Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8847441, 40.8374219] },
+      "properties": {
+        "name": "Taco Bell",
+        "address": "961 East 174th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9232809, 40.8177265] },
+      "properties": {
+        "name": "Taco Bell",
+        "address": "249 East 149th Street, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9405747, 40.7984351] },
+      "properties": {
+        "name": "Taco Bell",
+        "address": "173 East 116th Street, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9714411, 40.7626593] },
+      "properties": {
+        "name": "TAO Uptown",
+        "address": "42 East 58th Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8567606, 41.0510663] },
+      "properties": {
+        "name": "Tarrytown House Estate on The Hudson",
+        "address": "49 East Sunnyside Lane, Tarrytown",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9351048, 40.7961549] },
+      "properties": {
+        "name": "Teng Dragon",
+        "address": "2260 1st Avenue #1, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9237871, 40.8097876] },
+      "properties": {
+        "name": "Tepango's",
+        "address": "361 East 138th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8837733, 40.8458255] },
+      "properties": {
+        "name": "Texas Chicken and Burgers",
+        "address": "2104 Crotona Parkway, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9193459, 40.8078979] },
+      "properties": {
+        "name": "Texas Chicken and Burgers",
+        "address": "235 Brook Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9893858, 40.7429695] },
+      "properties": {
+        "name": "The 40/40 Club",
+        "address": "6 West 25th Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.952519, 40.8047705] },
+      "properties": {
+        "name": "The Cecil Steakhouse",
+        "address": "210 West 118th Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0021536, 40.7265328] },
+      "properties": {
+        "name": "The Dutch",
+        "address": "131 Sullivan Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9493694, 40.8225205] },
+      "properties": {
+        "name": "The Grange",
+        "address": "1635 Amsterdam Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.584487, 41.040253] },
+      "properties": {
+        "name": "The J House Greenwich",
+        "address": "1114 East Putnam Avenue, Riverside",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9436653, 40.7992366] },
+      "properties": {
+        "name": "The Kiosk",
+        "address": "80 East 116th Street, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9692262, 40.7657325] },
+      "properties": {
+        "name": "The Lowell Hotel",
+        "address": "28 East 63rd Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.4450073, 40.777565] },
+      "properties": {
+        "name": "The Madison Hotel Morristown, NJ",
+        "address": "1 Convent Road, Morristown",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9633994, 40.7752711] },
+      "properties": {
+        "name": "The Mark Hotel",
+        "address": "25 East 77th Street, New York",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.996455, 40.7598237] },
+      "properties": {
+        "name": "The Out Hotel",
+        "address": "510 West 42nd Street, New York",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.994737, 40.7037919] },
+      "properties": {
+        "name": "The River Caf\u00e9",
+        "address": "1 Water Street, Brooklyn",
+        "$": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.967987, 40.755202] },
+      "properties": {
+        "name": "The Smith",
+        "address": "956 2nd Avenue, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.959351, 40.814772] },
+      "properties": {
+        "name": "Toast Uptown",
+        "address": "3157 Broadway, New York",
+        "$": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.903503, 40.8118239] },
+      "properties": {
+        "name": "Tori's",
+        "address": "859 East 149th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.009776, 40.7196368] },
+      "properties": {
+        "name": "Tribeca Grill",
+        "address": "375 Greenwich Street, New York",
+        "$": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.983162, 40.679225] },
+      "properties": {
+        "name": "Union Hotel, Ascend Hotel Collection",
+        "address": "611 Degraw Street, Brooklyn",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.5588395, 40.7763839] },
+      "properties": {
+        "name": "Viana Hotel and Spa",
+        "address": "3998 Brush Hollow Road, Westbury",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8978651, 40.8428095] },
+      "properties": {
+        "name": "Wendy's",
+        "address": "4040 3rd Avenue, Bronx",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.941455, 40.8392178] },
+      "properties": {
+        "name": "Wendy's",
+        "address": "3939 Broadway, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0756392, 40.9172258] },
+      "properties": {
+        "name": "Westfield Garden State Plaza",
+        "address": "One Garden State Plaza, Paramus",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9488051, 40.8088317] },
+      "properties": {
+        "name": "White Castle",
+        "address": "2094 Adam Clayton Powell Junior Boulevard, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.93587, 40.799297] },
+      "properties": {
+        "name": "Wimpy's",
+        "address": "2334 2nd Avenue A, New York",
+        "$": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9214205, 40.8082697] },
+      "properties": {
+        "name": "Xime Authentic Mexican Restaurant",
+        "address": "448 East 138th Street, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.8894303, 40.8194093] },
+      "properties": {
+        "name": "Xin Ya",
+        "address": "898 Hunts Point Avenue, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.906948, 40.8488559] },
+      "properties": {
+        "name": "Yaroa",
+        "address": "1881 Grand Concourse, Bronx",
+        "$": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.9954829, 40.7592033] },
+      "properties": {
+        "name": "YOTEL New York",
+        "address": "570 10th Avenue, New York",
+        "$": "None"
+      }
+    }
+  ]
+}

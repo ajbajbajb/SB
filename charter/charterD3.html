@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>d3 Exp</title>
+    <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<style>
+    path {
+        fill: none;
+        stroke: black;
+    }
+    path.line-0 {
+    stroke-width: 2px;
+    fill: none;
+    stroke: #ed3700;
+    }
+    path.line-1 {
+    stroke-width: 2px;
+    fill: none;
+    stroke: blue;
+    }
+    path.line-2 {
+    stroke-width: 2px;
+    fill: none;
+    stroke-dasharray: 6;
+    stroke: green;
+    }
+    path.line-3 {
+    stroke-width: 2px;
+    fill: none;
+    stroke-dasharray: 2;
+    stroke: black;
+    }
+
+</style>
+<body>
+    <p>here we are</p>
+    <div id="container" class="svg-container"></div>
+    <script>
+        // 1. PREPARATION
+        // SVG
+        // defining shape and size of the chart(s). Good to be able to refer back to these.
+        const width = 600;
+        const height = 400;
+        const margin = 5;
+        const padding = 5;
+        const adj = 30;
+        // we are appending SVG first
+        const svg = d3.select("div#container").append("svg")
+            .attr("preserveAspectRatio", "xMinYMin meet")
+            .attr("viewBox", "-" +
+                adj + " -" +
+                adj + " " +
+                (width + adj * 3) + " " +
+                (height + adj * 3))
+            .style("padding", padding)
+            .style("margin", margin)
+            .classed("svg-content", true);
+
+        // The first step – to correctly read the data.
+       
+        // DATA SECTION
+        const timeConv = d3.timeParse("%Y");
+        const dataset = d3.csv("popData.csv");
+        dataset.then(function (data) {
+                    const slices = data.columns.slice(1).map(function (id) {
+                        return {
+                            id: id,
+                            values: data.map(function (d) {
+                                return {
+                                    date: timeConv(d.Year),
+                                    measurement: +d[id]
+                                };
+                            })
+                        };
+                    });
+        labels = data.columns.slice(1); // ajb's to label the lines correctly (if this is necessary)
+        console.log("Column headers", data.columns);
+        console.log("Column headers without date", data.columns.slice(1));
+        // returns the sliced dataset
+        console.log("Slices", slices);
+        // returns the first slice
+        console.log("First slice", slices[0]);
+        // returns the array in the first slice
+        console.log("A array", slices[0].values);
+        // returns the date of the first row in the first slice
+        console.log("Date element", slices[0].values[0].date);
+        // returns the array's length
+        console.log("Array length", (slices[0].values).length);
+        console.log("these are just the labels:" + labels[0]);
+
+        // SCALES
+        const xScale = d3.scaleTime().range([0,width]);
+        const yScale = d3.scaleLinear().rangeRound([height, 0]);
+        // specify input data Domain (i.e. this consists of all values 
+        // between a specified minimum and maximum that a data set can take)
+        xScale.domain(d3.extent(data, function(d){
+            return timeConv(d.Year)}));
+        yScale.domain([(0), d3.max(slices, function(c) {
+            return d3.max(c.values, function(d) {
+                return d.measurement + 4; }); // the guy added + 20 to leave room above the chart, though for us it doesn't matter since we're using percentage
+                })
+        ]);
+
+        // AXES̉̉̉̉
+        const yaxis = d3.axisLeft().scale(yScale);
+        const xaxis = d3.axisBottom().scale(xScale);
+
+        // LINES
+        const line = d3.line()
+            .x(function (d) { return xScale(d.date); }) // this broke the while thing! I didn't look at the array and see that the value is listed as 'date', i was going off Year still
+            .y(function (d) { return yScale(d.measurement); })
+            .curve(d3.curveMonotoneX);
+        
+        
+        // let id = 0; // a little bit of code to create a counter that increments everytime we label a line (this should be kept within this graph's scope)
+        // const ids = function () {
+        //     return "line-" + id++;
+        // }
+        let id = 0; // a little bit of code to create a counter that increments everytime we label a line (this should be kept within this graph's scope)
+       
+
+        // 2. DRAWING
+
+        // AXES
+        svg.append("g")
+            .attr("class", "axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xaxis);
+        svg.append("g")
+            .attr("class", "axis")
+            .call(yaxis);
+
+        // LINES
+
+        const lines = svg.selectAll("lines")
+            .data(slices)
+            .enter()
+            .append("g");
+
+            lines.append("path")
+            .attr("class", function (c) { return ('line-' + id++)})
+            .attr("d", function (d) { return line(d.values); });
+
+        lines.append("text")
+                .attr("class","series_label")
+                .datum(function(d) {
+                return {
+                id: d.id,
+                value: d.values[d.values.length - 1]}; })
+                .attr("transform", function(d) {
+                return "translate(" + (xScale(d.value.date) + 10)
+                + "," + (yScale(d.value.measurement) + 5 ) + ")";})
+                .attr("x", 5)
+                .text(function(d) { return d.id; });
+
+
+    });
+    </script>
+</body>
+
+</html>

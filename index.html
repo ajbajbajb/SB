@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- TODO
+
+    - fix glitching relief map (obesity, diabetes)
+    - tooltips for graphs
+    - add images & video for community kitchens.
+    - add community member profiles? do these exist?
+    - fix size of left & right cards
+    - title font choices
+    - pie chart (bodega supermarket) arcTween trial + labeling...
+    - match colors to graph elements (eg. bronx is red)
+        
+    -->
+    <title>Hunger in the South Bronx</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+
+    <!-- Google, Search Engine Tags -- update description and image before launch -->
+    <meta name="description" content="One Million Hungry" />
+    <meta name="image" content="./images/cross-bronx-expressway-at-night.jpg" />
+
+    <!-- Facebook Meta Tags -- update title, description and image before launch -->
+    <meta property="og:title" content="One Million Hungry" />
+    <meta
+      property="og:description"
+      content="Food Insecurity in The South Bronx"
+    />
+    <meta
+      property="”og:image”"
+      content="https://onemillionhungry.com/images/og-image.jpg"
+    />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Meta Tags  -- update title, description and image before launch -->
+    <meta property="twitter:title" content="One Million Hungry" />
+    <meta
+      property="twitter:description"
+      content="Food Insecurity in The South Bronx"
+    />
+    <meta
+      property="twitter:image"
+      content="https://onemillionhungry.com/images/og-image.jpg"
+    />
+    <meta name="twitter:creator" content="@Studio20NYU" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="onemillionhungry.com" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama@2.2.0/build/scrollama.js"></script>
+    <script src="https://unpkg.com/phosphor-icons"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="mapstyles.css?15614" />
+
+    <script src="./southbronx_v5_config.js?22"></script>
+
+    <!-- Google Analytics -- uncomment and update the property IDs below before launch -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=TRACKING ID HERE"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'TRACKING ID HERE');
+    </script> -->
+  </head>
+  <body>
+    <div class="hamburger-menu">
+      <div class="hamburger" onclick="toggleHamburgerMenu()">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          fill="#fff"
+          viewBox="0 0 256 256"
+        >
+          <rect width="256" height="256" fill="none"></rect>
+          <line
+            x1="40"
+            y1="128"
+            x2="216"
+            y2="128"
+            stroke="#fff"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="16"
+          ></line>
+          <line
+            x1="40"
+            y1="64"
+            x2="216"
+            y2="64"
+            stroke="#fff"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="16"
+          ></line>
+          <line
+            x1="40"
+            y1="192"
+            x2="216"
+            y2="192"
+            stroke="#fff"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="16"
+          ></line>
+        </svg>
+      </div>
+      <div class="section-menu hidden">
+        <h3 class="section-button" onclick="toggleHamburgerMenu()">
+          <a href="#3a">Chapter One</a>
+        </h3>
+        <h3 class="section-button" onclick="toggleHamburgerMenu()">
+          <a href="#7a">Chapter 2</a>
+        </h3>
+        <h3 class="section-button" onclick="toggleHamburgerMenu()">
+          <a href="#11a">Chapter 3</a>
+        </h3>
+        <h3 class="section-button" onclick="toggleHamburgerMenu()">
+          <a href="#about">About</a>
+        </h3>
+      </div>
+    </div>
+    <div id="map"></div>
+    <div id="story"></div>
+    <div class="about" id="about">
+      <h3>About Us / Studio20</h3>
+      <p>
+        Students in NYU’s Studio 20 master’s program, focusing on digital
+        innovation in journalism, created a data-rich multimedia story that maps
+        and charts food insecurity in the South Bronx. Instructed by Blake
+        Hunsicker, we used Mapbox and D3, among other tools and languages, to
+        build a content-rich story addressing a complex issue.
+      </p>
+      <div class="avatars">
+        <div class="avatar">
+          <img src="./images/students/noni_2.png" />
+          <div class="avatar-text">
+            <p><strong>Noni Ghani</strong></p>
+            <p>Design</p>
+          </div>
+        </div>
+        <div class="avatar">
+          <img src="./images/students/waqas_3.png" />
+          <div class="avatar-text">
+            <p><strong>Waqas Ahmed</strong></p>
+            <p>Engineering</p>
+          </div>
+        </div>
+        <div class="avatar">
+          <img src="./images/students/alex_7.png" />
+          <div class="avatar-text">
+            <p><strong>Alex John Beck</strong></p>
+            <p>Engineering</p>
+          </div>
+        </div>
+        <div class="avatar">
+          <img src="./images/students/blake.jpg" />
+          <div class="avatar-text">
+            <p><strong>Blake Hunsicker</strong></p>
+            <p>Engineering</p>
+          </div>
+        </div>
+      </div>
+      <div class="avatars">
+        <div class="avatar">
+          <img src="./images/students/ralph_4.png" />
+          <div class="avatar-text">
+            <p><strong>Ralph Thomassaint</strong></p>
+            <p>Editorial</p>
+          </div>
+        </div>
+        <div class="avatar">
+          <img src="./images/students/sarah_5.png" />
+          <div class="avatar-text">
+            <p><strong>Sarah Andersen</strong></p>
+            <p>Design</p>
+          </div>
+        </div>
+        <div class="avatar">
+          <img src="./images/students/xavier_6.png" />
+          <div class="avatar-text">
+            <p><strong>Xavier Bartaburu</strong></p>
+            <p>Editorial</p>
+          </div>
+        </div>
+        <div class="avatar">
+          <img src="./images/students/lee_1.png" />
+          <div class="avatar-text">
+            <p><strong>Lee Carter</strong></p>
+            <p>Editorial</p>
+          </div>
+        </div>
+      </div>
+      <div class="sources">
+        <h4>Sources</h4>
+        <h5>Data</h5>
+        <small
+          >Measure of America <br />
+          <a
+            href="https://ssrc-static.s3.amazonaws.com/moa/D2G5eDownloadTables/Data2Go.NYC.5th.Edition.Health.xlsx"
+            title=""
+            >Link</a
+          ></small
+        >
+        <div style="border-bottom: 1px dotted white; margin: 1rem 0"></div>
+        <small
+          >Google Maps data <br />
+          https://maps.google.com</small
+        >
+        <div style="border-bottom: 1px dotted white; margin: 1rem 0"></div>
+      </div>
+    </div>
+
+    <script>
+      var layerTypes = {
+        fill: ["fill-opacity"],
+        background: ["background-opacity"], // ajb's add
+        line: ["line-opacity"],
+        circle: ["circle-opacity", "circle-stroke-opacity"],
+        symbol: ["icon-opacity", "text-opacity"],
+        raster: ["raster-opacity"],
+        "fill-extrusion": ["fill-extrusion-opacity"],
+        heatmap: ["heatmap-opacity"],
+      };
+
+      var alignments = {
+        left: "lefty",
+        center: "centered",
+        right: "righty",
+        full: "fully",
+        chunk: "chunky", // ajb's chunker
+        charter: "charter", // ajb's chart
+      };
+
+      function getLayerPaintType(layer) {
+        var layerType = map.getLayer(layer).type;
+        return layerTypes[layerType];
+      }
+
+      function setLayerOpacity(layer) {
+        var paintProps = getLayerPaintType(layer.layer);
+        paintProps.forEach(function (prop) {
+          var options = {};
+          if (layer.duration) {
+            var transitionProp = prop + "-transition";
+            options = { duration: layer.duration };
+            map.setPaintProperty(layer.layer, transitionProp, options);
+          }
+          map.setPaintProperty(layer.layer, prop, layer.opacity, options);
+        });
+      }
+
+      var story = document.getElementById("story");
+      var features = document.createElement("div");
+      features.setAttribute("id", "features");
+
+      var header = document.createElement("div");
+
+      if (config.heroimage) {
+        var heroVideo = document.createElement("div");
+        heroVideo.innerHTML = config.heroimage;
+        header.appendChild(heroVideo);
+      }
+      // if (config.title) {
+      //     var titleText = document.createElement('p');
+      //     titleText.innerText = config.title;
+      //     header.appendChild(titleText);
+      //     titleText.innerHTML += " <hr> ";
+      // } // removed because we're using a video title
+
+      if (config.subtitle) {
+        var subtitleText = document.createElement("p");
+        subtitleText.innerText = config.subtitle;
+        header.appendChild(subtitleText);
+      }
+
+      if (config.byline) {
+        var bylineText = document.createElement("p");
+        bylineText.innerText = config.byline;
+        header.appendChild(bylineText);
+      }
+
+      if (header.innerText.length > 0) {
+        header.classList.add(config.theme);
+        header.setAttribute("id", "header");
+        story.appendChild(header);
+      }
+
+      config.chapters.forEach((record, idx) => {
+        console.log("chapter entry!");
+        var container = document.createElement("div");
+        var chapter = document.createElement("div");
+        // moved image up to be first bit of chapter
+        if (record.chart) {
+          var chart = document.createElement("span");
+          chart.innerHTML = record.chart;
+          chapter.appendChild(chart);
+        }
+        if (record.image) {
+          var image = new Image();
+          image.src = record.image;
+          chapter.appendChild(image);
+        }
+        if (record.title) {
+          var title = document.createElement("h3");
+          title.innerHTML = record.title;
+          chapter.appendChild(title);
+        }
+        if (record.description) {
+          var story = document.createElement("p");
+          story.innerHTML = record.description;
+          chapter.appendChild(story);
+        }
+
+        container.setAttribute("id", record.id);
+        container.classList.add("step");
+        if (idx === 0) {
+          container.classList.add("active");
+        }
+
+        chapter.classList.add(config.theme);
+        container.appendChild(chapter);
+        container.classList.add(alignments[record.alignment] || "centered");
+        if (record.hidden) {
+          container.classList.add("hidden");
+        }
+        features.appendChild(container);
+      });
+
+      story.appendChild(features);
+
+      var footer = document.createElement("div");
+
+      if (config.footer) {
+        var footerText = document.createElement("p");
+        footerText.innerHTML = config.footer;
+        footer.appendChild(footerText);
+      }
+
+      if (footer.innerText.length > 0) {
+        footer.classList.add(config.theme);
+        footer.setAttribute("id", "footer");
+        story.appendChild(footer);
+      }
+
+      mapboxgl.accessToken = config.accessToken;
+
+      const transformRequest = (url) => {
+        const hasQuery = url.indexOf("?") !== -1;
+        const suffix = hasQuery
+          ? "&pluginName=scrollytellingV2"
+          : "?pluginName=scrollytellingV2";
+        return {
+          url: url + suffix,
+        };
+      };
+
+      var map = new mapboxgl.Map({
+        container: "map",
+        style: config.style,
+        center: config.chapters[0].location.center,
+        zoom: config.chapters[0].location.zoom,
+        bearing: config.chapters[0].location.bearing,
+        pitch: config.chapters[0].location.pitch,
+        interactive: false,
+        transformRequest: transformRequest,
+      });
+
+      if (config.showMarkers) {
+        var marker = new mapboxgl.Marker({ color: config.markerColor });
+        marker.setLngLat(config.chapters[0].location.center).addTo(map);
+      }
+
+      // instantiate the scrollama
+      var scroller = scrollama();
+
+      map.on("load", function () {
+        if (config.use3dTerrain) {
+          map.addSource("mapbox-dem", {
+            type: "raster-dem",
+            url: "mapbox://mapbox.mapbox-terrain-dem-v1",
+            tileSize: 512,
+            maxzoom: 14,
+          });
+          // add the DEM source as a terrain layer with exaggerated height
+          map.setTerrain({ source: "mapbox-dem", exaggeration: 1.5 });
+
+          // add a sky layer that will show when the map is highly pitched
+          map.addLayer({
+            id: "sky",
+            type: "sky",
+            paint: {
+              "sky-type": "atmosphere",
+              "sky-atmosphere-sun": [0.0, 0.0],
+              "sky-atmosphere-sun-intensity": 15,
+            },
+          });
+        }
+
+        // setup the instance, pass callback functions
+        scroller
+          .setup({
+            step: ".step",
+            offset: 0.8,
+            debug: false, // bool the line showing step, offset, class etc
+            progress: true,
+          })
+          .onStepEnter((response) => {
+            var chapter = config.chapters.find(
+              (chap) => chap.id === response.element.id
+            );
+            response.element.classList.add("active");
+            map[chapter.mapAnimation || "flyTo"](chapter.location);
+            if (chapter.scrollerComm) {
+              console.log("hiasdahihih");
+              //document.querySelector('.heroimage').style.position = 'relative';
+              //console.log(document.querySelector('.heroimage').style.position);
+            }
+            if (config.showMarkers) {
+              marker.setLngLat(chapter.location.center);
+            }
+            if (chapter.onChapterEnter.length > 0) {
+              chapter.onChapterEnter.forEach(setLayerOpacity);
+            }
+            if (chapter.callback) {
+              window[chapter.callback]();
+            }
+            if (chapter.rotateAnimation) {
+              map.once("moveend", function () {
+                const rotateNumber = map.getBearing();
+                map.rotateTo(rotateNumber + 90, {
+                  duration: 24000,
+                  easing: function (t) {
+                    return t;
+                  },
+                });
+              });
+            }
+          })
+          .onStepExit((response) => {
+            var chapter = config.chapters.find(
+              (chap) => chap.id === response.element.id
+            );
+            response.element.classList.remove("active");
+            if (chapter.onChapterExit.length > 0) {
+              chapter.onChapterExit.forEach(setLayerOpacity);
+            }
+            // if (response.direction === 'up' {
+            //     chapter.onChapter.Exit.forEach(setLayerOpacity);
+            // } We're going to need something like this to turn off *all* layers when we move up.
+          });
+      });
+
+      // setup resize event
+      window.addEventListener("resize", scroller.resize);
+
+      window.onload = function exampleFunction() {
+        const specItem = document.querySelector(".step"); // changed to .step from .test because it was throwing null errors
+        specItem.classList.add("extra-margin-bottom");
+      };
+    </script>
+    <script src="./hamburger.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script type="text/javascript" src="D3Builder.js"></script>
+  </body>
+</html>

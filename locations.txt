@@ -1,0 +1,74 @@
+speed 0.1 - 1
+
+nyc pull-back
+            // nyc pull-back
+            location: {
+            // nyc pull-back
+            center: [-74.00490, 40.74060],
+            zoom: 11.13,
+            pitch: 60.00,
+            bearing: -7.20
+            },
+
+
+south bronx
+
+            location: {
+                // south bronx
+                center: [-73.90204, 40.82057],
+                zoom: 13.27,
+                pitch: 57.50,
+                bearing: -20.00
+            
+            },
+
+            location: {
+
+                // south bronx
+                center: [-73.91727, 40.80949],
+                zoom: 14.00,
+                pitch: 50.00,
+                bearing: -0.00,
+                speed: 0.6,
+                curve: 1
+            }
+
+            {   // south bronx pulled back
+                center: [-73.89933, 40.80891],
+                zoom: 13.10,
+                pitch: 33.50,
+                bearing: 16.10
+            }
+
+            // cross bronx birds eye far
+            center: [-73.85850, 40.82942],
+            zoom: 12.84,
+            pitch: 1.50,
+            bearing: -9.79
+upper manhattan and the bronx, hovering from UWS
+
+            center: [-73.94366, 40.80132],
+            zoom: 13.36,
+            pitch: 59.50,
+            bearing: 71.20
+
+hunts point
+
+                center: [-73.87745, 40.81156],
+                zoom: 15.46,
+                pitch: 60.00,
+                bearing: -50.40
+
+centered over mott haven
+
+            center: [-73.91954, 40.81203],
+            zoom: 13.96,
+            pitch: 52.00,
+            bearing: 52.80
+            
+cross bronx expressway
+
+            center: [-73.83833, 40.82945],
+            zoom: 15.11,
+            pitch: 0.00,
+            bearing: -8.00

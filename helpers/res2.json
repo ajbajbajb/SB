@@ -1,0 +1,809 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATtYBwKO0mydaF0kVpJncUmZC8Hk9cL5WlzfrFOfgyGkFWw7i8HR_0eWGXy25JxJZfp4tMM5nFthwTj9PPTu-Cg4oYIQHYTauz3winHg58wJBbg-8aylPrKTUSepkSpnaMDTSMFptPEOrSo2maaOdOaZLxuQnjkthj7XIGqVpci3d61sDeY6Cwp1VaWi2qsF97ADotdU8sC-QKGlw1qotLqp4dkrjlJwVXIkeDX8AsuCh1qn9Vz1YI67str-Zos3Bfxx1I4GYSHtrXQmWPUVepv57196xSN_XSVUzJRTqMBrzq3UNBusJLnovsXJDtWSEa8GN-DMv0EGYeIEX2nACWjEiK5NP28zdlPZ7CJ2kf2DWZFpGe0aTFFq5_daq3JC6NAKyYlfYfRcg3vkfSmqFP6eBAeyFVGDBW9wKV5go_lSMfytH3w0o6jd-WqNNmUVys8EECL9cvLhgyN-LLkQlvOhGIIec6FWQ8Qm5ckMCghAHmhwH2GpL_IHc24Uje3QImEj_SyPIg9eCz0w3Joi-iVt7jPNKIRBi2neFY_s2va9X4SVDsK_yUpvjf9zLspBqvU0KcZ5OkZif1kjoYEN_D8H7RQxLZHJ0TvviogLxBCGGwInWB2-U17qR9WYQ72IIbdpig",
+    "results": [
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8464629,
+                "lng": -73.8451607
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8477725302915,
+                    "lng": -73.84387921970848
+                },
+                "southwest":
+                {
+                    "lat": 40.8450745697085,
+                    "lng": -73.8465771802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Dr. Roman Perez-Soler, MD",
+        "place_id": "ChIJV_GXrK30wokR7yFL-O_7WOc",
+        "plus_code":
+        {
+            "compound_code": "R5W3+HW New York, NY, USA",
+            "global_code": "87G8R5W3+HW"
+        },
+        "reference": "ChIJV_GXrK30wokR7yFL-O_7WOc",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "1695 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.84060650000001,
+                "lng": -73.8484916
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8418712302915,
+                    "lng": -73.84726021970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8391732697085,
+                    "lng": -73.8499581802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+        "name": "Montefiore Westchester Square Campus",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110940832572974417747\">Michael Richardson</a>"],
+            "photo_reference": "ATtYBwIDx47fdsQrd4J5WaraNE5YTJihYz2i4NUYjJkOW-uAW2ZAOlZciZOAnxGHY_bQzxJfgs3NVaoDBGaMzXA1l5mGHoM2OaLwAkDboTGtnspF5a_QgFowyGeHE7GqB6kn-myDxsAVkOv0HY0X0dNccngJ2Bvq-tJqJfJA8RRHc2Mw2zmD",
+            "width": 4032
+        }],
+        "place_id": "ChIJVYk9XbH0wokRssppfADcaBk",
+        "plus_code":
+        {
+            "compound_code": "R5R2+6J Bronx, NY, USA",
+            "global_code": "87G8R5R2+6J"
+        },
+        "rating": 3.4,
+        "reference": "ChIJVYk9XbH0wokRssppfADcaBk",
+        "scope": "GOOGLE",
+        "types": ["hospital", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 75,
+        "vicinity": "2475 Saint Raymond Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8350348,
+                "lng": -73.8479705
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8364650302915,
+                    "lng": -73.8467387697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8337670697085,
+                    "lng": -73.8494367302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Dr. Manuja C. Mathur, MD",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "place_id": "ChIJpQYA47X0wokRNYWaUF2dwAE",
+        "plus_code":
+        {
+            "compound_code": "R5P2+2R New York, NY, USA",
+            "global_code": "87G8R5P2+2R"
+        },
+        "rating": 3.7,
+        "reference": "ChIJpQYA47X0wokRNYWaUF2dwAE",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 3,
+        "vicinity": "2300 Westchester Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8602833,
+                "lng": -73.8603759
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.86133013029149,
+                    "lng": -73.8589991697085
+                },
+                "southwest":
+                {
+                    "lat": 40.85863216970849,
+                    "lng": -73.8616971302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "name": "Astor Collegiate Academy",
+        "photos": [
+        {
+            "height": 4032,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"],
+            "photo_reference": "ATtYBwKIBpERzaGDgMCq5cRiJSzt7rQLAVvgOKrqyPOB5GkdSNZUq5M3_3DvbEbk60jR-hs6Z834hYoLr25tUhPfArbhONmDjPPBXIHTBhc4k4FzVSqZ5_XI16vxG1W2ZJ4chaurcST8nAssZA9LPZ9QuPgb8TsXOJ0cnULQC3kcvJNYGawI",
+            "width": 3024
+        }],
+        "place_id": "ChIJ1WgewV7zwokRIX858nn5d_0",
+        "plus_code":
+        {
+            "compound_code": "V46Q+4R Bronx, NY, USA",
+            "global_code": "87G8V46Q+4R"
+        },
+        "rating": 3.1,
+        "reference": "ChIJ1WgewV7zwokRIX858nn5d_0",
+        "scope": "GOOGLE",
+        "types": ["school", "point_of_interest", "establishment"],
+        "user_ratings_total": 14,
+        "vicinity": "925 Astor Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.848013,
+                "lng": -73.843943
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84951913029151,
+                    "lng": -73.8425617197085
+                },
+                "southwest":
+                {
+                    "lat": 40.84682116970851,
+                    "lng": -73.8452596802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Chrzanowski Gail MD",
+        "place_id": "ChIJw2M4mKz0wokR3fwKtAGr0OI",
+        "plus_code":
+        {
+            "compound_code": "R5X4+6C Bronx, NY, USA",
+            "global_code": "87G8R5X4+6C"
+        },
+        "rating": 4,
+        "reference": "ChIJw2M4mKz0wokR3fwKtAGr0OI",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 2,
+        "vicinity": "1740 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.848013,
+                "lng": -73.843943
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84951913029151,
+                    "lng": -73.8425617197085
+                },
+                "southwest":
+                {
+                    "lat": 40.84682116970851,
+                    "lng": -73.8452596802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Carrington Alma P MD",
+        "place_id": "ChIJw2M4mKz0wokRIjvAHN5XEwE",
+        "plus_code":
+        {
+            "compound_code": "R5X4+6C Bronx, NY, USA",
+            "global_code": "87G8R5X4+6C"
+        },
+        "reference": "ChIJw2M4mKz0wokRIjvAHN5XEwE",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "1740 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.848013,
+                "lng": -73.843943
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84951913029151,
+                    "lng": -73.8425617197085
+                },
+                "southwest":
+                {
+                    "lat": 40.84682116970851,
+                    "lng": -73.8452596802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Kogan Maria MD",
+        "place_id": "ChIJw2M4mKz0wokRAMtNulgYzOc",
+        "plus_code":
+        {
+            "compound_code": "R5X4+6C Bronx, NY, USA",
+            "global_code": "87G8R5X4+6C"
+        },
+        "reference": "ChIJw2M4mKz0wokRAMtNulgYzOc",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "1740 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8520502,
+                "lng": -73.86737699999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8534380302915,
+                    "lng": -73.8662286197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8507400697085,
+                    "lng": -73.8689265802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "name": "Staples",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 1080,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/115202212088223106988\">CRAZY WORLD</a>"],
+            "photo_reference": "ATtYBwJE3rhv-mOVWta7jZNjv7-4IJEbIeq4GhXJT_IpnkDRCAce17gA_d-RZ6cQcd8AvdZgOQXVTdHlbXecfoIk4keRrPDxHh9EYlTejMY1CZj7ig_H-sNrNDdIIKCuatyEnAY9RjR6HJ8SSGhkh4x6pRWTLCP6CLmp_DgREkK3AMyO3oo4",
+            "width": 1920
+        }],
+        "place_id": "ChIJnflMXsOSwokRIDvbxYw83dE",
+        "plus_code":
+        {
+            "compound_code": "V42M+R2 New York, NY, USA",
+            "global_code": "87G8V42M+R2"
+        },
+        "price_level": 2,
+        "rating": 3.7,
+        "reference": "ChIJnflMXsOSwokRIDvbxYw83dE",
+        "scope": "GOOGLE",
+        "types": ["electronics_store", "furniture_store", "home_goods_store", "point_of_interest", "store", "establishment"],
+        "user_ratings_total": 283,
+        "vicinity": "2040 White Plains Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8351309,
+                "lng": -73.8613637
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8364837802915,
+                    "lng": -73.8599214197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8337858197085,
+                    "lng": -73.8626193802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Walgreens",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "photos": [
+        {
+            "height": 4032,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/107710007212663546660\">Caren Morris</a>"],
+            "photo_reference": "ATtYBwLpNXTtOuixEy6s_51dsqBkDknYIu8lhY7qLU8wDqHKa5lFPBaYWH7Q20DfHkCvZXwEc3piO-0AfZyjH0yBNGOwtYWQS5g-9xopddHyL4s2OJaFgd2ZfXbnflDKeSA_T7y5n_fFk_SaAnQEsf-aXmqOB5LeJDvs_8-eebnDv120bn_q",
+            "width": 3024
+        }],
+        "place_id": "ChIJa-qCXr70wokRVhuUw77jYxo",
+        "plus_code":
+        {
+            "compound_code": "R4PQ+3F New York, NY, USA",
+            "global_code": "87G8R4PQ+3F"
+        },
+        "price_level": 2,
+        "rating": 2.8,
+        "reference": "ChIJa-qCXr70wokRVhuUw77jYxo",
+        "scope": "GOOGLE",
+        "types": ["drugstore", "convenience_store", "food", "health", "point_of_interest", "clothing_store", "store", "establishment"],
+        "user_ratings_total": 78,
+        "vicinity": "1371 Metropolitan Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8598962,
+                "lng": -73.8603193
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8611366302915,
+                    "lng": -73.8589679197085
+                },
+                "southwest":
+                {
+                    "lat": 40.85843866970851,
+                    "lng": -73.86166588029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "name": "Christopher Columbus High School",
+        "photos": [
+        {
+            "height": 3024,
+            "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104094676749070747146\">Iaroslav R</a>"],
+            "photo_reference": "ATtYBwKtmJtWoRERomxSYgdYcgLRaguP7SAcRFe1Pt2CozJfOdhGPBAVX6Z9GW1qWZNAgvyY-sdZGzdJzkh29ImW_kgNLrb_9K1Wif0I977K5BNf03-ErlZmVTMBnykY7YoI0442AZl4oYp0LExWhGBZBaw-xWdMla6W1hXXEoUXQXF7yOoC",
+            "width": 4032
+        }],
+        "place_id": "ChIJ1WgewV7zwokRtGw1iOSFpO8",
+        "plus_code":
+        {
+            "compound_code": "V45Q+XV Bronx, NY, USA",
+            "global_code": "87G8V45Q+XV"
+        },
+        "rating": 3.1,
+        "reference": "ChIJ1WgewV7zwokRtGw1iOSFpO8",
+        "scope": "GOOGLE",
+        "types": ["secondary_school", "school", "point_of_interest", "establishment"],
+        "user_ratings_total": 18,
+        "vicinity": "925 Astor Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8349479,
+                "lng": -73.84806309999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8363805302915,
+                    "lng": -73.84683481970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8336825697085,
+                    "lng": -73.8495327802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Dr. Anurag Shrivastava, MD",
+        "place_id": "ChIJpQYA47X0wokR8gaOm9tP4mQ",
+        "plus_code":
+        {
+            "compound_code": "R5M2+XQ New York, NY, USA",
+            "global_code": "87G8R5M2+XQ"
+        },
+        "reference": "ChIJpQYA47X0wokR8gaOm9tP4mQ",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "2300 Westchester Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8429575,
+                "lng": -73.8582626
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.84460483029149,
+                    "lng": -73.8567881197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8419068697085,
+                    "lng": -73.85948608029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "name": "Auto Parts Nerd",
+        "opening_hours":
+        {
+            "open_now": true
+        },
+        "place_id": "ChIJSVP6mLv0wokRyB_tQbl5Wm8",
+        "plus_code":
+        {
+            "compound_code": "R4VR+5M New York, NY, USA",
+            "global_code": "87G8R4VR+5M"
+        },
+        "rating": 4.3,
+        "reference": "ChIJSVP6mLv0wokRyB_tQbl5Wm8",
+        "scope": "GOOGLE",
+        "types": ["car_repair", "point_of_interest", "store", "establishment"],
+        "user_ratings_total": 3,
+        "vicinity": "1601 Bronxdale Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8477822,
+                "lng": -73.8428843
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8491677302915,
+                    "lng": -73.84138176970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8464697697085,
+                    "lng": -73.8440797302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Fleischman Jay A MD",
+        "opening_hours":
+        {
+            "open_now": false
+        },
+        "place_id": "ChIJxXcW2az0wokRPJD04yE6cYk",
+        "plus_code":
+        {
+            "compound_code": "R5X4+4R Bronx, NY, USA",
+            "global_code": "87G8R5X4+4R"
+        },
+        "reference": "ChIJxXcW2az0wokRPJD04yE6cYk",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "34 Marconi Street #100, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8352522,
+                "lng": -73.8480237
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8366228302915,
+                    "lng": -73.8467059697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8339248697085,
+                    "lng": -73.8494039302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Dr. Mary Ann Haines, MD",
+        "place_id": "ChIJpQYA47X0wokR53OYT0ay12A",
+        "plus_code":
+        {
+            "compound_code": "R5P2+4Q New York, NY, USA",
+            "global_code": "87G8R5P2+4Q"
+        },
+        "rating": 3.8,
+        "reference": "ChIJpQYA47X0wokR53OYT0ay12A",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 4,
+        "vicinity": "2300 Westchester Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8505141,
+                "lng": -73.8488638
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8519182302915,
+                    "lng": -73.8475447697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8492202697085,
+                    "lng": -73.85024273029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Dr. Warren W. Geisler, MD",
+        "place_id": "ChIJdfCFQan0wokR6VJGZiCPpoQ",
+        "plus_code":
+        {
+            "compound_code": "V522+6F Bronx, NY, USA",
+            "global_code": "87G8V522+6F"
+        },
+        "reference": "ChIJdfCFQan0wokR6VJGZiCPpoQ",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "1180 Morris Park Avenue #3, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.849066,
+                "lng": -73.8458929
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8504043302915,
+                    "lng": -73.8444901197085
+                },
+                "southwest":
+                {
+                    "lat": 40.8477063697085,
+                    "lng": -73.84718808029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Rajdev Lakshmi N MD",
+        "place_id": "ChIJF70ve6n0wokRWyt2wQKv5Ws",
+        "plus_code":
+        {
+            "compound_code": "R5X3+JJ Bronx, NY, USA",
+            "global_code": "87G8R5X3+JJ"
+        },
+        "rating": 4,
+        "reference": "ChIJF70ve6n0wokRWyt2wQKv5Ws",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 2,
+        "vicinity": "1825 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8491014,
+                "lng": -73.8461856
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8504115302915,
+                    "lng": -73.8446400697085
+                },
+                "southwest":
+                {
+                    "lat": 40.8477135697085,
+                    "lng": -73.84733803029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Ping Wong, MD",
+        "place_id": "ChIJc1R8m6v0wokRQR7FtJsmgP4",
+        "plus_code":
+        {
+            "compound_code": "R5X3+JG Bronx, NY, USA",
+            "global_code": "87G8R5X3+JG"
+        },
+        "reference": "ChIJc1R8m6v0wokRQR7FtJsmgP4",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "1825 Eastchester Road, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8349479,
+                "lng": -73.84806309999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8363805302915,
+                    "lng": -73.84683481970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8336825697085,
+                    "lng": -73.8495327802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Kim Sarah S MD",
+        "place_id": "ChIJpQYA47X0wokRQThV1C_w-wE",
+        "plus_code":
+        {
+            "compound_code": "R5M2+XQ New York, NY, USA",
+            "global_code": "87G8R5M2+XQ"
+        },
+        "rating": 5,
+        "reference": "ChIJpQYA47X0wokRQThV1C_w-wE",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "user_ratings_total": 2,
+        "vicinity": "2300 Westchester Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8349479,
+                "lng": -73.84806309999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8363805302915,
+                    "lng": -73.84683481970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8336825697085,
+                    "lng": -73.8495327802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Chin-Shue Veronica E OD",
+        "place_id": "ChIJpQYA47X0wokRIP1HVLXwG5Y",
+        "plus_code":
+        {
+            "compound_code": "R5M2+XQ New York, NY, USA",
+            "global_code": "87G8R5M2+XQ"
+        },
+        "reference": "ChIJpQYA47X0wokRIP1HVLXwG5Y",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "2300 Westchester Avenue, Bronx"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry":
+        {
+            "location":
+            {
+                "lat": 40.8349479,
+                "lng": -73.84806309999999
+            },
+            "viewport":
+            {
+                "northeast":
+                {
+                    "lat": 40.8363805302915,
+                    "lng": -73.84683481970849
+                },
+                "southwest":
+                {
+                    "lat": 40.8336825697085,
+                    "lng": -73.8495327802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name": "Dr. Michael J. Vitti, MD",
+        "place_id": "ChIJpQYA47X0wokRyZ2r4XwiOpc",
+        "plus_code":
+        {
+            "compound_code": "R5M2+XQ Bronx, NY, USA",
+            "global_code": "87G8R5M2+XQ"
+        },
+        "reference": "ChIJpQYA47X0wokRyZ2r4XwiOpc",
+        "scope": "GOOGLE",
+        "types": ["doctor", "health", "point_of_interest", "establishment"],
+        "vicinity": "3219 East Tremont Avenue, Bronx"
+    }],
+    "status": "OK"
+}
